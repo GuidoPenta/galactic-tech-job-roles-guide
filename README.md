@@ -10,6 +10,9 @@ Descrizione del ruolo e mansioni principali
 ## Big data engineer/architect
 Descrizione del ruolo e mansioni principali
 
+## Blockchain Engineer
+Descrizione del ruolo e mansioni principali
+
 ## Business Analyst
 Descrizione del ruolo e mansioni principali
 
