@@ -58,6 +58,9 @@ Descrizione del ruolo e mansioni principali
 ## DevOps engineer
 Descrizione del ruolo e mansioni principali
 
+## Developer Advocate
+Descrizione del ruolo e mansioni principali
+
 ## DevSecOps engineer
 Descrizione del ruolo e mansioni principali
 
