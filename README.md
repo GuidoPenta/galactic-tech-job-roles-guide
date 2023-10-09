@@ -70,6 +70,9 @@ Descrizione del ruolo e mansioni principali
 ## Information Systems Manager
 Descrizione del ruolo e mansioni principali
 
+## Internet of Things (IoT) Engineer
+Descrizione del ruolo e mansioni principali
+
 ## IT manager
 Descrizione del ruolo e mansioni principali
 
