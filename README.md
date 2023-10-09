@@ -124,6 +124,9 @@ Descrizione del ruolo e mansioni principali
 ## Platform engineer
 Descrizione del ruolo e mansioni principali
 
+## Product Manager
+Descrizione del ruolo e mansioni principali
+
 ## Program Manager
 Descrizione del ruolo e mansioni principali
 
