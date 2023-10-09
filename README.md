@@ -61,6 +61,9 @@ Descrizione del ruolo e mansioni principali
 ## Developer Advocate
 Descrizione del ruolo e mansioni principali
 
+## Developer Relations (DevRel)
+Descrizione del ruolo e mansioni principali
+
 ## DevSecOps engineer
 Descrizione del ruolo e mansioni principali
 
