@@ -5,11 +5,9 @@ Molto spesso (anzi, troppo spesso) infatti i job titles/job roles vengono confus
 L'idea quindi è di creare una lista esaustiva dei job roles più utilizzati nel mercato tech, compresa una chiara definizione dei ruoli e responsabilità principali previste dallo stesso.
 
 ## Big data engineer/architect
-
 Descrizione del ruolo e mansioni principali
 
 ## Business Analyst
-
 Descrizione del ruolo e mansioni principali
 
 ## Chief information officer (CIO)
