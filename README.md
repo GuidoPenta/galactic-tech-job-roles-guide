@@ -79,6 +79,9 @@ Descrizione del ruolo e mansioni principali
 ## IT Business Analyst
 Descrizione del ruolo e mansioni principali
 
+## IT Consultant
+Descrizione del ruolo e mansioni principali
+
 ## IT manager
 Descrizione del ruolo e mansioni principali
 
