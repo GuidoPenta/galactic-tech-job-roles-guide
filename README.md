@@ -91,6 +91,9 @@ Descrizione del ruolo e mansioni principali
 ## IT security analyst
 Descrizione del ruolo e mansioni principali
 
+## IT Trainer
+Descrizione del ruolo e mansioni principali
+
 ## IT support specialist
 Descrizione del ruolo e mansioni principali
 
