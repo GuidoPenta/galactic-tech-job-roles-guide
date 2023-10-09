@@ -5,5 +5,55 @@ Molto spesso (anzi, troppo spesso) infatti i job titles/job roles vengono confus
 L'idea quindi è di creare una lista esaustiva dei job roles più utilizzati nel mercato tech, compresa una chiara definizione del ruolo e delle sue responsabilità principali.
 
 
+Big data engineer/architect
+Business Analyst
+Chief information officer (CIO)
+Chief information security officer (CISO)
+Chief technology officer (CTO)
+Cloud architect
+Cloud computing engineer
+Cloud systems engineer
+Cloud/software architect
+Cloud/software developer
+Cyber security specialist
+Data Analyst
+Data scientist
+Database administrator
+DevOps engineer
+Enterprise architect
+IT manager
+IT Risk Analyst
+IT security analyst
+IT support specialist
+Machine Learning Engineer
+Mobile developer
+Network administrator
+Network Engineer
+Network infrastructure specialist
+Network security engineer
+Operations analyst
+Penetration Tester
+Platform engineer
+Program Manager
+Project Manager
+Project Manager Operation (PMO)
+Quality Assurance Analyst
+Scrum Master
+Search engine optimization (SEO) consultant
+Security specialist
+Site reliability engineer
+Software architect
+Software developer
+Software Engineer
+Software Tester
+Solutions architect
+System Administrator (Sysadmin)
+Systems analyst
+Technical lead
+Technical Writer
+User experience (UX) designer
+User interface (UI) designer
+UX/UI specialist
+Web designer
 
 
