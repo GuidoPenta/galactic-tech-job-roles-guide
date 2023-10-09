@@ -76,6 +76,9 @@ Descrizione del ruolo e mansioni principali
 ## IT Auditor
 Descrizione del ruolo e mansioni principali
 
+## IT Business Analyst
+Descrizione del ruolo e mansioni principali
+
 ## IT manager
 Descrizione del ruolo e mansioni principali
 
