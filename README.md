@@ -4,109 +4,154 @@ L'obiettivo di questa Guida Galattica è di portare un pò di chiarezza nel merc
 Molto spesso (anzi, troppo spesso) infatti i job titles/job roles vengono confusi, male interpretati e male utilizzati negli annunci di lavoro.
 L'idea quindi è di creare una lista esaustiva dei job roles più utilizzati nel mercato tech, compresa una chiara definizione dei ruoli e responsabilità principali previste dallo stesso.
 
-# Big data engineer/architect
+## Big data engineer/architect
 
 Descrizione del ruolo e mansioni principali
 
-# Business Analyst
+## Business Analyst
 
 Descrizione del ruolo e mansioni principali
 
+## Chief information officer (CIO)
+Descrizione del ruolo e mansioni principali
 
+## Chief information security officer (CISO)
+Descrizione del ruolo e mansioni principali
 
-Chief information officer (CIO)
+## Chief technology officer (CTO)
+Descrizione del ruolo e mansioni principali
 
-Chief information security officer (CISO)
+## Cloud architect
+Descrizione del ruolo e mansioni principali
 
-Chief technology officer (CTO)
+## Cloud computing engineer
+Descrizione del ruolo e mansioni principali
 
-Cloud architect
+## Cloud systems engineer
+Descrizione del ruolo e mansioni principali
 
-Cloud computing engineer
+## Cloud/software architect
+Descrizione del ruolo e mansioni principali
 
-Cloud systems engineer
+## Cloud/software developer
+Descrizione del ruolo e mansioni principali
 
-Cloud/software architect
+## Cyber security specialist
+Descrizione del ruolo e mansioni principali
 
-Cloud/software developer
+## Data Analyst
+Descrizione del ruolo e mansioni principali
 
-Cyber security specialist
+## Data scientist
+Descrizione del ruolo e mansioni principali
 
-Data Analyst
+## Database administrator
+Descrizione del ruolo e mansioni principali
 
-Data scientist
+## DevOps engineer
+Descrizione del ruolo e mansioni principali
 
-Database administrator
+## Enterprise architect
+Descrizione del ruolo e mansioni principali
 
-DevOps engineer
+## IT manager
+Descrizione del ruolo e mansioni principali
 
-Enterprise architect
+## IT Risk Analyst
+Descrizione del ruolo e mansioni principali
 
-IT manager
+## IT security analyst
+Descrizione del ruolo e mansioni principali
 
-IT Risk Analyst
+## IT support specialist
+Descrizione del ruolo e mansioni principali
 
-IT security analyst
+## Machine Learning Engineer
+Descrizione del ruolo e mansioni principali
 
-IT support specialist
+## Mobile developer
+Descrizione del ruolo e mansioni principali
 
-Machine Learning Engineer
+## Network administrator
+Descrizione del ruolo e mansioni principali
 
-Mobile developer
+## Network Engineer
+Descrizione del ruolo e mansioni principali
 
-Network administrator
+## Network infrastructure specialist
+Descrizione del ruolo e mansioni principali
 
-Network Engineer
+## Network security engineer
+Descrizione del ruolo e mansioni principali
 
-Network infrastructure specialist
+## Operations analyst
+Descrizione del ruolo e mansioni principali
 
-Network security engineer
+## Penetration Tester
+Descrizione del ruolo e mansioni principali
 
-Operations analyst
+## Platform engineer
+Descrizione del ruolo e mansioni principali
 
-Penetration Tester
+## Program Manager
+Descrizione del ruolo e mansioni principali
 
-Platform engineer
+## Project Manager
+Descrizione del ruolo e mansioni principali
 
-Program Manager
+## Project Manager Operation (PMO)
+Descrizione del ruolo e mansioni principali
 
-Project Manager
+## Quality Assurance Analyst
+Descrizione del ruolo e mansioni principali
 
-Project Manager Operation (PMO)
+## Scrum Master
+Descrizione del ruolo e mansioni principali
 
-Quality Assurance Analyst
+## Search engine optimization (SEO) consultant
+Descrizione del ruolo e mansioni principali
 
-Scrum Master
+## Security specialist
+Descrizione del ruolo e mansioni principali
 
-Search engine optimization (SEO) consultant
+## Site reliability engineer
+Descrizione del ruolo e mansioni principali
 
-Security specialist
+## Software architect
+Descrizione del ruolo e mansioni principali
 
-Site reliability engineer
+## Software developer
+Descrizione del ruolo e mansioni principali
 
-Software architect
+## Software Engineer
+Descrizione del ruolo e mansioni principali
 
-Software developer
+## Software Tester
+Descrizione del ruolo e mansioni principali
 
-Software Engineer
+## Solutions architect
+Descrizione del ruolo e mansioni principali
 
-Software Tester
+## System Administrator (Sysadmin)
+Descrizione del ruolo e mansioni principali
 
-Solutions architect
+## Systems analyst
+Descrizione del ruolo e mansioni principali
 
-System Administrator (Sysadmin)
+## Technical lead
+Descrizione del ruolo e mansioni principali
 
-Systems analyst
+## Technical Writer
+Descrizione del ruolo e mansioni principali
 
-Technical lead
+## User experience designer (UX Designer)
+Descrizione del ruolo e mansioni principali
 
-Technical Writer
+## User interface (UI) designer
+Descrizione del ruolo e mansioni principali
 
-User experience designer (UX Designer)
+## UX/UI specialist
+Descrizione del ruolo e mansioni principali
 
-User interface (UI) designer
-UX/UI specialist
-Web designer
-
-
-
+## Web designer
+Descrizione del ruolo e mansioni principali
