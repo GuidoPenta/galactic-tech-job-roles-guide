@@ -58,6 +58,9 @@ Descrizione del ruolo e mansioni principali
 ## Enterprise architect
 Descrizione del ruolo e mansioni principali
 
+## Full Stack Engineer
+Descrizione del ruolo e mansioni principali
+
 ## IT manager
 Descrizione del ruolo e mansioni principali
 
