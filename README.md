@@ -142,7 +142,7 @@ Descrizione del ruolo e mansioni principali
 ## Project Manager Operation (PMO)
 Descrizione del ruolo e mansioni principali
 
-## Quality Assurance Analyst
+## Quality Assurance (QA) Analyst
 Descrizione del ruolo e mansioni principali
 
 ## Scrum Master
