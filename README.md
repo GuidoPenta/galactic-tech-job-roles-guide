@@ -17,6 +17,7 @@ Chief information officer (CIO)
 Chief information security officer (CISO)
 
 Chief technology officer (CTO)
+
 Cloud architect
 
 Cloud computing engineer
