@@ -145,6 +145,9 @@ Descrizione del ruolo e mansioni principali
 ## Quality Assurance (QA) Analyst
 Descrizione del ruolo e mansioni principali
 
+## Robotics Engineer
+Descrizione del ruolo e mansioni principali
+
 ## Scrum Master
 Descrizione del ruolo e mansioni principali
 
