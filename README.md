@@ -61,6 +61,9 @@ Descrizione del ruolo e mansioni principali
 ## Full Stack Engineer
 Descrizione del ruolo e mansioni principali
 
+## Game Developer
+Descrizione del ruolo e mansioni principali
+
 ## IT manager
 Descrizione del ruolo e mansioni principali
 
