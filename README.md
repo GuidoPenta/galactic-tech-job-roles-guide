@@ -7,7 +7,6 @@ L'idea quindi è di creare una lista esaustiva dei job roles più utilizzati nel
 ## AI Engineer
 Descrizione del ruolo e mansioni principali
 
-
 ## Big data engineer/architect
 Descrizione del ruolo e mansioni principali
 
