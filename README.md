@@ -73,6 +73,9 @@ Descrizione del ruolo e mansioni principali
 ## Internet of Things (IoT) Engineer
 Descrizione del ruolo e mansioni principali
 
+## IT Auditor
+Descrizione del ruolo e mansioni principali
+
 ## IT manager
 Descrizione del ruolo e mansioni principali
 
