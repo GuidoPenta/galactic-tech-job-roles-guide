@@ -61,6 +61,9 @@ Descrizione del ruolo e mansioni principali
 ## Enterprise architect
 Descrizione del ruolo e mansioni principali
 
+## Frontend Developer
+Descrizione del ruolo e mansioni principali
+
 ## Full Stack Engineer
 Descrizione del ruolo e mansioni principali
 
