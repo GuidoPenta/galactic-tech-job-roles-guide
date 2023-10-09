@@ -64,6 +64,9 @@ Descrizione del ruolo e mansioni principali
 ## Game Developer
 Descrizione del ruolo e mansioni principali
 
+## Information Security Architect
+Descrizione del ruolo e mansioni principali
+
 ## IT manager
 Descrizione del ruolo e mansioni principali
 
