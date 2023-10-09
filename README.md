@@ -67,6 +67,9 @@ Descrizione del ruolo e mansioni principali
 ## Information Security Architect
 Descrizione del ruolo e mansioni principali
 
+## Information Systems Manager
+Descrizione del ruolo e mansioni principali
+
 ## IT manager
 Descrizione del ruolo e mansioni principali
 
