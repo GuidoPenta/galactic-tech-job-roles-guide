@@ -120,11 +120,49 @@ Descrizione del ruolo e mansioni principali
 ## Software architect
 Descrizione del ruolo e mansioni principali
 
-## Software developer
-Descrizione del ruolo e mansioni principali
-
 ## Software Engineer
 Descrizione del ruolo e mansioni principali
+### Descrizione del ruolo e mansioni principali
+Un Software Engineer, o ingegnere del software, è un professionista che si occupa della progettazione, dello sviluppo, del test e della manutenzione di software. Le sue mansioni tipiche includono:
+
+Analisi dei requisiti: Comprendere le esigenze degli utenti e i requisiti del sistema da implementare.
+Progettazione: Definire l'architettura, le funzionalità e l'interfaccia utente del software.
+Sviluppo: Implementare il software utilizzando linguaggi di programmazione e framework.
+Test: Verificare il funzionamento corretto del software.
+Manutenzione: Aggiustare e migliorare il software nel tempo.
+
+### Seniority
+
+In genere, la seniority di un Software Engineer viene definita in base all'esperienza e alle competenze acquisite. Le seniority più comuni sono:
+
+Junior: I Junior Software Engineer hanno una breve esperienza e sono responsabili di attività di sviluppo di base.
+Middle: I Middle Software Engineer hanno una maggiore esperienza e sono responsabili di attività di sviluppo più complesse.
+Senior: I Senior Software Engineer hanno una significativa esperienza e sono responsabili di attività di progettazione e leadership.
+
+### Responsabilità aggiuntive per i Software Engineer
+I Software Engineer più senior possono avere responsabilità aggiuntive, come:
+Leadership: Guidare un team di sviluppo.
+Consulenza: Fornire consulenza tecnica a clienti o altri team.
+Ricerca e sviluppo: Sviluppare nuove tecnologie e metodologie di sviluppo.
+Similitudini e differenze tra "sviluppatore" (Software Developer) e "programmatore" ("Programmer")
+
+Similitudini:
+
+Entrambi i termini si riferiscono a professionisti che si occupano di sviluppo software.
+Entrambi i termini richiedono competenze tecniche in programmazione.
+
+Differenze:
+
+"Software Developer" è un termine più generico, che può essere utilizzato per riferirsi a qualsiasi ruolo nello sviluppo software.
+"Programmer" è un termine più specifico, che si riferisce a un professionista che si occupa principalmente di scrivere codice.
+Nota circa la traduzione di "engineer" e le eventuali limitazioni giuridiche del titolo di ingegnere/engineer
+
+In italiano, il termine "engineer" viene generalmente tradotto come "ingegnere". Tuttavia, in alcuni casi, il termine "ingegnere" è riservato a professionisti che hanno conseguito un titolo di laurea in Ingegneria. In questi casi, il termine "Software Engineer" potrebbe essere tradotto come "tecnico informatico" o "programmatore".
+
+In sintesi, un Software Engineer è un professionista altamente qualificato che si occupa di tutte le fasi del ciclo di vita del software, dalla progettazione allo sviluppo, dal test alla manutenzione. Il termine "ingegnere del software" è un termine generico che può essere utilizzato per riferirsi a qualsiasi ruolo nello sviluppo software, mentre il termine "programmatore" è un termine più specifico che si riferisce a un professionista che si occupa principalmente di scrivere codice.
+
+## Software developer
+cfr. Software Engineer
 
 ## Software Tester
 Descrizione del ruolo e mansioni principali
