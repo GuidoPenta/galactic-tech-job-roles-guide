@@ -122,7 +122,7 @@ Descrizione del ruolo e mansioni principali
 Descrizione del ruolo e mansioni principali
 
 ## Software Engineer
-Descrizione del ruolo e mansioni principali
+
 ### Descrizione del ruolo e mansioni principali
 Un Software Engineer, o ingegnere del software, è un professionista che si occupa della progettazione, dello sviluppo, del test e della manutenzione di software. Le sue mansioni tipiche includono:
 
