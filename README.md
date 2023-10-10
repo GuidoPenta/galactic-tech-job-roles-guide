@@ -5,7 +5,28 @@ Molto spesso (anzi, troppo spesso) infatti i job titles/job roles vengono confus
 L'idea quindi è di creare una lista esaustiva dei job roles più utilizzati nel mercato tech, compresa una chiara definizione dei ruoli e responsabilità principali previste dallo stesso.
 
 ## Big data engineer
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Un Big data engineer è un professionista dell'informatica che si occupa di raccogliere, elaborare e gestire grandi quantità di dati. Il suo compito è progettare e implementare sistemi e architetture per l'analisi dei dati, in modo da renderli disponibili e fruibili per i decisori aziendali.
+
+Le mansioni tipiche di un Big data engineer includono:
+
+Acquisizione dei dati: raccolta dei dati da diverse fonti, come database, sistemi operativi, sensori, ecc.
+Elaborazione dei dati: trasformazione e pulizia dei dati per renderli compatibili con le analisi.
+Gestione dei dati: archiviazione e distribuzione dei dati in modo sicuro e accessibile.
+Analisi dei dati: sviluppo di algoritmi e modelli per l'analisi dei dati.
+Le responsabilità aggiuntive di un Big data engineer possono includere:
+
+Coordinamento con i team di data science e business intelligence: per garantire che i dati siano disponibili e fruibili per le attività di analisi e reporting.
+Sviluppo di soluzioni di sicurezza e compliance: per proteggere i dati da accessi non autorizzati e per garantire la conformità alle normative.
+Formazione e supporto agli utenti: per aiutare gli utenti a utilizzare i sistemi e le architetture di data engineering.
+In generale, un Big data engineer è una figura professionale altamente qualificata, con competenze tecniche e analitiche avanzate. Le sue competenze includono:
+
+Architettura dei dati: conoscenza dei principi di progettazione e implementazione di sistemi di data engineering.
+Ingegneria dei dati: conoscenza delle tecnologie e degli strumenti per l'acquisizione, l'elaborazione e la gestione dei dati.
+Analisi dei dati: conoscenza dei principi e delle tecniche di analisi dei dati.
+Sicurezza informatica: conoscenza delle misure di sicurezza per proteggere i dati.
 
 ## Big data architect
 Descrizione del ruolo e mansioni principali
