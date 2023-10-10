@@ -132,6 +132,9 @@ Descrizione del ruolo e mansioni principali
 ## Solutions architect
 Descrizione del ruolo e mansioni principali
 
+## Support engineer
+Descrizione del ruolo e mansioni principali
+
 ## System Administrator (Sysadmin)
 Descrizione del ruolo e mansioni principali
 
@@ -142,7 +145,57 @@ Descrizione del ruolo e mansioni principali
 Descrizione del ruolo e mansioni principali
 
 ## Technical Writer
-Descrizione del ruolo e mansioni principali
+### Descrizione del ruolo e mansioni principali
+Esistono principalmente due tipologie di technical writer: chi si occupa dello sviluppo di tutorial
+e chi si occupa della documentazione di prodotto.
+
+#### Sviluppo di tutorial
+La figura del technical writer che realizza tutorial si occupa di scrivere articoli tecnici per:
+- aiutare gli sviluppatori a risolvere problemi legati alla programmazione in un certo linguaggio.
+- comprendere ed approfondire alcune tecnologie e metodologie (per esempio, il Machine Learning).
+- approfondire e testare framework.
+- testare topics che hanno un particolare trend di interesse (per esempio, su come usare ChatGPT).
+
+Questo tipo di figura si presta bene a lavorare:
+- come freelance.
+- come dipendente, ma affiancando anche un'altra mansione (tipicamente, lo sviluppo del software).
+
+Le mansioni principali di un technical writer che scriva tutorial comprendono:
+- fare ricerca sul topic da sviluppare.
+- saper utilizzare i giusti prompt per interrogare le AI (senza farsi generare testo per fare copia-incolla nell'articolo!).
+- creare codice per fare esempi pratici e verificare che funzioni.
+- editing del testo a fine scrittura.
+
+A parte avere un po' di conoscenza del linguaggio di programmazione per il quale scrive i tutorial,
+possono servire anche le seguenti conoscenze e competenze trasversali:
+- basi di Git.
+- markdown.
+- lingua inglese.
+
+### Sviluppo della documentazione tecnica di prodotto
+La figura del technical writer che sviluppa la documentazione tecnica di prodotto si occupa di:
+- sviluppo di documentazione e procedure per aiutare i clienti che acquistano il software a poterlo utilizzare correttamente.
+- sviluppo della documentazione interna che può riguardare:
+    - procedure e processi.
+    - troubleshooting del supporto.
+    - documentazione del codice realizzato dagli sviluppatori.
+
+Questo tipo di figura si presta bene a lavorare sia come dipendente che come contractor.
+
+Le mansioni principali di un technical writer che si occupa della documentazione tecnica sono:
+- stabilire un processo coi developers per sviluppare la documentazione tecnica per i clienti prima della release del prodotto, così da rilasciare il prodotto a documentazione ultimata.
+- testare il prodotto e conoscerlo al meglio possibile.
+- creare la documentazione per i clienti segmentata per audience. In particolare, se il prodotto è un SaaS, ogni tipologia di utente, in generale, ha la documentazione dedicata.
+- sviluppare la documentazione interna seguendo le indicazioni ricevute ed implementare processi di verifica della stessa.
+- editing del testo a documentazione ultimata.
+- sviluppo ed implementazione di standard sulla scrittura della documentazione tecnica.
+- eventuali traduzioni in altre lingue della documentazione per i clienti.
+
+A parte conoscere lo strumento utilizzato per lo sviluppo della documentazione tecnica,
+possono servire anche le seguenti conoscenze e competenze trasversali:
+- basi di HTML.
+- lingua inglese.
+
 
 ## User experience designer (UX Designer)
 Descrizione del ruolo e mansioni principali
