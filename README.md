@@ -213,10 +213,43 @@ Oltre alle mansioni tipiche, un CIO può avere anche responsabilità aggiuntive,
 In conclusione, il CIO è una figura chiave nelle aziende moderne. È responsabile di garantire che le tecnologie siano utilizzate in modo efficace per supportare gli obiettivi aziendali e la trasformazione digitale.
 
 ## Chief information security officer (CISO)
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Il Chief Information Security Officer (CISO) è la figura responsabile della sicurezza informatica di un'organizzazione. Si occupa di proteggere i dati e le infrastrutture informatiche dell'azienda da attacchi informatici, violazioni della privacy e altri rischi.
+
+Le mansioni tipiche di un CISO includono:
+
+- Definire e implementare una strategia di sicurezza informatica che tenga conto delle esigenze e degli obiettivi dell'azienda.
+- Gestire un team di sicurezza informatica composto da esperti di diverse discipline.
+- Valutare i rischi informatici e implementare misure per mitigarli.
+- Formare il personale sulle best practice di sicurezza informatica.
+- Gestire incidenti di sicurezza in caso di attacchi informatici o violazioni della privacy.
+
+In aggiunta a queste mansioni, il CISO può avere anche responsabilità aggiuntive, come:
+- Rispettare i requisiti normativi in materia di sicurezza informatica.
+- Collaborare con altri reparti aziendali per garantire la sicurezza dei dati e delle infrastrutture.
+- Rappresentare l'azienda in ambito di sicurezza informatica.
+
+Ecco alcuni esempi di responsabilità aggiuntive che un CISO può avere:
+
+- Gestione dei contratti con i fornitori di servizi IT per garantire che rispettino gli standard di sicurezza dell'azienda.
+- Partecipazione a progetti di trasformazione digitale per garantire che la sicurezza informatica sia integrata nelle nuove tecnologie.
+- Coordinamento con le autorità di sicurezza per segnalare incidenti informatici e collaborare alle indagini.
 
 ## Chief technology officer (CTO)
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Il Chief Technology Officer (CTO) è un manager di alto livello che si occupa della strategia tecnologica di un'azienda. È responsabile della definizione, dello sviluppo e dell'implementazione della tecnologia che supporta i prodotti, i servizi e i processi dell'azienda.
+
+Le mansioni tipiche di un CTO includono:
+
+- Definizione della strategia tecnologica: il CTO è responsabile di definire la strategia tecnologica dell'azienda, che dovrebbe essere allineata con la strategia aziendale generale. Questo include la valutazione delle tecnologie emergenti, la definizione dei requisiti tecnologici e la definizione di un piano per il loro sviluppo e implementazione.
+- Sviluppo e implementazione della tecnologia: il CTO è responsabile dello sviluppo e dell'implementazione della tecnologia che supporta i prodotti, i servizi e i processi dell'azienda. Questo può includere la gestione di team di ingegneri e sviluppatori, la supervisione di progetti di tecnologia e l'assicurazione della qualità della tecnologia.
+- Gestione dell'infrastruttura tecnologica: il CTO è responsabile della gestione dell'infrastruttura tecnologica dell'azienda, che include hardware, software, rete e sicurezza. Questo include la definizione dei requisiti infrastrutturali, la gestione dei fornitori e la supervisione della manutenzione e dell'aggiornamento dell'infrastruttura.
+
+Le responsabilità aggiuntive di un CTO possono variare a seconda delle dimensioni e del settore dell'azienda. Ad esempio, un CTO in un'azienda tecnologica potrebbe essere anche responsabile della ricerca e sviluppo di nuove tecnologie, mentre un CTO in un'azienda manifatturiera potrebbe essere anche responsabile dell'ingegneria di prodotto.
 
 ## Cloud architect
 Un Cloud Architect è un professionista IT che supervisiona la gestione e la manutenzione del sistema di cloud computing di un'organizzazione. È responsabile dello sviluppo di strategie cloud, della valutazione di applicazioni e hardware cloud e dell'organizzazione dei sistemi cloud per soddisfare le esigenze operative dell'organizzazione.
@@ -233,9 +266,33 @@ Responsabilità e mansioni del Cloud Architect:
 
 Oltre che capacità tecniche, un Cloud Architect deve avere anche forti skill comunicative (scritte e verbali) per esprimere al meglio le soluzioni e interfacciarsi con il management.
 
-
 ## Cloud computing engineer
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Un Cloud computing engineer, o ingegnere del cloud, è un professionista IT che progetta, implementa e gestisce l'infrastruttura cloud di un'organizzazione. Le sue mansioni tipiche includono:
+
+- Valutare le esigenze di un'organizzazione e progettare soluzioni cloud personalizzate.
+- Implementare e configurare servizi cloud, come server, storage, database, reti e software.
+- Gestire e monitorare l'infrastruttura cloud per garantire prestazioni, sicurezza e disponibilità.
+- Eseguire operazioni di manutenzione e risoluzione dei problemi.
+
+Inoltre, un Cloud Engineer può essere responsabile di attività aggiuntive, come:
+- Sviluppo e implementazione di applicazioni cloud.
+- Formazione e consulenza agli utenti sui servizi cloud.
+- Ricerca e sviluppo di nuove tecnologie cloud.
+
+Responsabilità aggiuntive
+
+Le responsabilità aggiuntive di un cloud engineer possono variare a seconda dell'organizzazione e della posizione. Ad esempio, un cloud engineer può essere responsabile di:
+
+- Gestione dei costi cloud.
+- Sicurezza cloud.
+- Compliance cloud.
+- Analisi dei dati cloud.
+- Intelligenza artificiale e machine learning cloud.
+
+Inoltre, un cloud engineer può essere coinvolto in progetti di innovazione cloud, come lo sviluppo di nuove applicazioni o la migrazione di applicazioni legacy al cloud.
 
 ## Cloud systems engineer
 Descrizione del ruolo e mansioni principali
