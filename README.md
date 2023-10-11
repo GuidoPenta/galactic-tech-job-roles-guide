@@ -31,7 +31,28 @@ In generale, un Big data engineer è una figura professionale altamente qualific
 - Sicurezza informatica: conoscenza delle misure di sicurezza per proteggere i dati.   
 
 ## Big data architect
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Un Big Data Architect è un professionista che progetta e implementa soluzioni per l'archiviazione, l'elaborazione e l'analisi dei big data. 
+
+Le sue mansioni tipiche includono:
+- Definire la strategia di big data dell'azienda, inclusa la raccolta, la conservazione, l'analisi e l'utilizzo dei dati.
+- Progettare l'architettura dei big data, ovvero la struttura e l'organizzazione dei dati e dei sistemi che li gestiscono.
+- Selezionare e implementare le tecnologie e gli strumenti di big data più adatti alle esigenze dell'azienda.
+- Costruire e gestire l'infrastruttura dei big data, ovvero i server, i database e i sistemi di calcolo che ospitano i dati.
+- Assicurare la qualità e la sicurezza dei dati.
+
+Inoltre, un Big Data Architect può avere anche le seguenti responsabilità aggiuntive:
+- Formare e guidare le risorse umane che lavorano nell'ambito dei big data.
+- Collaborare con i responsabili IT e di business per garantire che le soluzioni di big data siano allineate alle esigenze dell'azienda.
+- Monitorare e ottimizzare le prestazioni dei sistemi di big data.
+
+Le competenze necessarie per diventare un big data Architect sono:
+- Competenze informatiche, in particolare in ambito database, sistemi di elaborazione distribuita e analisi dei dati.
+- Competenze matematiche e statistiche, per la comprensione e l'analisi dei dati.
+- Competenze di business, per comprendere le esigenze dell'azienda e i benefici che i big data possono apportare.
+- Competenze di leadership e di comunicazione, per guidare e collaborare con altri professionisti.
 
 ## Business Analyst
 Descrizione del ruolo e mansioni principali
