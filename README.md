@@ -10,7 +10,25 @@ Grazie per ogni eventuale contribuzione/proposta!
 Descrizione del ruolo e mansioni principali
 
 ## Backend developer
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Il backend developer è un programmatore specializzato nella codifica lato server di un'applicazione software. In altre parole, si occupa di sviluppare le funzionalità che non sono visibili all'utente, ma che sono fondamentali per il funzionamento dell'applicazione.
+
+Le mansioni tipiche di un backend developer includono:
+
+- Sviluppo di codice per l'elaborazione delle richieste dell'utente, come ad esempio la registrazione di un nuovo account, l'acquisto di un prodotto o il caricamento di un file.
+- Interazione con il database, per la memorizzazione e la gestione dei dati.
+- Costruzione di API, per consentire l'interazione tra l'applicazione e altri sistemi software.
+- Ottimizzazione delle prestazioni, per garantire che l'applicazione risponda in modo rapido e affidabile.
+
+Inoltre, il backend developer può essere coinvolto in altre attività, come:
+
+- Collaborazione con i front-end developer, per garantire che l'applicazione sia coerente e integrata.
+- Test e debug, per verificare che l'applicazione funzioni correttamente.
+- Documentazione, per facilitare la manutenzione e lo sviluppo futuro dell'applicazione.
+
+Le responsabilità aggiuntive di un backend developer possono variare in base alla specifica azienda o progetto. Ad esempio, un backend developer potrebbe essere responsabile della sicurezza dell'applicazione, della scalabilità o dell'integrazione con sistemi legacy.
 
 ## Big data engineer
 
