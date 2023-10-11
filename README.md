@@ -44,7 +44,20 @@ Descrizione del ruolo e mansioni principali
 Descrizione del ruolo e mansioni principali
 
 ## Cloud architect
-Descrizione del ruolo e mansioni principali
+Un Cloud Architect è un professionista IT che supervisiona la gestione e la manutenzione del sistema di cloud computing di un'organizzazione. È responsabile dello sviluppo di strategie cloud, della valutazione di applicazioni e hardware cloud e dell'organizzazione dei sistemi cloud per soddisfare le esigenze operative dell'organizzazione.
+
+Responsabilità e mansioni del Cloud Architect:
+- Creare una strategia cloud ben informata e gestire il processo di adattamento.
+- Valutazione delle applicazioni, dell'hardware e del software del cloud
+- Sviluppare e organizzare sistemi cloud
+- Lavorare a stretto contatto con la sicurezza informatica per monitorare la privacy del cloud aziendale.
+- Offrire indicazioni sulle tecniche di spostamento dell'infrastruttura, compresi i trasferimenti di applicazioni in massa nel cloud.
+- Identificare le migliori soluzioni di architettura cloud per soddisfare con successo le esigenze dell'azienda.
+- Guidare l'organizzazione nell'adozione del cloud e stabilire le best practice.
+- Esaminare e selezionare i fornitori di cloud e i servizi di terze parti
+
+Oltre che capacità tecniche, un Cloud Architect deve avere anche forti skill comunicative (scritte e verbali) per esprimere al meglio le soluzioni e interfacciarsi con il management.
+
 
 ## Cloud computing engineer
 Descrizione del ruolo e mansioni principali
