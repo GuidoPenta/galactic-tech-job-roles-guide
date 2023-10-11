@@ -81,7 +81,22 @@ Le competenze necessarie per diventare un big data Architect sono:
 - Competenze di leadership e di comunicazione, per guidare e collaborare con altri professionisti.
 
 ## Blockchain Engineer
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Un ingegnere blockchain è un professionista tecnico responsabile della progettazione, sviluppo, implementazione e manutenzione di applicazioni basate sulla tecnologia blockchain. Questo ruolo richiede una profonda conoscenza della tecnologia di ledger distribuiti, della crittografia e dei contratti intelligenti.
+
+Le mansioni tipiche di un ingegnere blockchain includono:
+
+- Progettazione e sviluppo di applicazioni blockchain: gli ingegneri blockchain collaborano con analisti, sviluppatori e altri professionisti per progettare e sviluppare applicazioni blockchain che soddisfino le esigenze specifiche di un'azienda o di un settore.
+- Implementazione di applicazioni blockchain: gli ingegneri blockchain sono responsabili dell'implementazione di applicazioni blockchain su una rete blockchain.
+- Manutenzione di applicazioni blockchain: gli ingegneri blockchain sono responsabili della manutenzione e dell'aggiornamento di applicazioni blockchain per garantire che funzionino correttamente.
+
+Responsabilità aggiuntive che un ingegnere blockchain può avere includono:
+
+- Formazione e consulenza: gli ingegneri blockchain possono essere chiamati a formare e consigliare altri team all'interno di un'azienda sulle tecnologie blockchain.
+- Ricerca e sviluppo: gli ingegneri blockchain possono essere coinvolti in attività di ricerca e sviluppo per migliorare le tecnologie blockchain.
+- Gestione di progetti: gli ingegneri blockchain con esperienza possono assumere ruoli di leadership nella gestione di progetti blockchain.
 
 ## Business Analyst
 
@@ -105,7 +120,25 @@ In sintesi, il Business Analyst agisce come ponte tra le esigenze aziendali e le
 Sono in grado di tradurre le richieste aziendali in requisiti dettagliati che possono essere implementati dal team di sviluppo o di gestione del progetto. Grazie alle loro competenze analitiche e di comunicazione, sono fondamentali per il successo di progetti e iniziative aziendali.
 
 ## Chief information officer (CIO)
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Il Chief Information Officer (CIO) è il responsabile dell'architettura, della gestione e della sicurezza dei sistemi informativi di un'azienda. È un ruolo strategico che si occupa di garantire che le tecnologie siano utilizzate in modo efficiente e produttivo per supportare gli obiettivi aziendali.
+
+Le mansioni tipiche di un CIO includono:
+
+- Definizione della strategia IT aziendale: il CIO collabora con il CEO e altri dirigenti per sviluppare una strategia IT che supporti gli obiettivi aziendali.
+- Gestione dei sistemi informativi: il CIO è responsabile della gestione dei sistemi informatici dell'azienda, inclusi i server, i database, i reti e le applicazioni software.
+- Gestione dei dati: il CIO è responsabile della gestione dei dati dell'azienda, inclusa la sicurezza, la conformità e l'analisi.
+- Gestione delle risorse IT: il CIO è responsabile della gestione del personale IT, dei budget e delle risorse IT.
+
+Oltre alle mansioni tipiche, un CIO può avere anche responsabilità aggiuntive, come:
+
+- Direzione della trasformazione digitale: il CIO può essere responsabile della guida della trasformazione digitale dell'azienda, che include l'adozione di nuove tecnologie e l'innovazione dei processi aziendali.
+- Leadership e sviluppo del personale IT: il CIO può essere responsabile della leadership e dello sviluppo del personale IT dell'azienda.
+- Rappresentanza dell'azienda nel settore IT: il CIO può rappresentare l'azienda in eventi e conferenze del settore IT.
+
+In conclusione, il CIO è una figura chiave nelle aziende moderne. È responsabile di garantire che le tecnologie siano utilizzate in modo efficace per supportare gli obiettivi aziendali e la trasformazione digitale.
 
 ## Chief information security officer (CISO)
 Descrizione del ruolo e mansioni principali
