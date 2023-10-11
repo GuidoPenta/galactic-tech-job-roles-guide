@@ -6,6 +6,12 @@ L'idea quindi è di creare una lista esaustiva dei job roles più utilizzati nel
 Al momento il repo è un blob di definizioni puramente testuali. Idealmente, una volta popolate tutte le voci, verrà formattato esteticamente in tabella e ogni Job Title verrà inserito in una categoria specifica.
 Grazie per ogni eventuale contribuzione/proposta!
 
+## AI Engineer
+Descrizione del ruolo e mansioni principali
+
+## Backend developer
+Descrizione del ruolo e mansioni principali
+
 ## Big data engineer
 
 ### Descrizione del ruolo e mansioni principali
@@ -55,6 +61,9 @@ Le competenze necessarie per diventare un big data Architect sono:
 - Competenze matematiche e statistiche, per la comprensione e l'analisi dei dati.
 - Competenze di business, per comprendere le esigenze dell'azienda e i benefici che i big data possono apportare.
 - Competenze di leadership e di comunicazione, per guidare e collaborare con altri professionisti.
+
+## Blockchain Engineer
+Descrizione del ruolo e mansioni principali
 
 ## Business Analyst
 
@@ -129,7 +138,43 @@ Descrizione del ruolo e mansioni principali
 ## DevOps engineer
 Descrizione del ruolo e mansioni principali
 
+## Developer Advocate
+Descrizione del ruolo e mansioni principali
+
+## Developer Relations (DevRel)
+Descrizione del ruolo e mansioni principali
+
+## DevSecOps engineer
+Descrizione del ruolo e mansioni principali
+
 ## Enterprise architect
+Descrizione del ruolo e mansioni principali
+
+## Frontend Developer
+Descrizione del ruolo e mansioni principali
+
+## Full Stack Engineer
+Descrizione del ruolo e mansioni principali
+
+## Game Developer
+Descrizione del ruolo e mansioni principali
+
+## Information Security Architect
+Descrizione del ruolo e mansioni principali
+
+## Information Systems Manager
+Descrizione del ruolo e mansioni principali
+
+## Internet of Things (IoT) Engineer
+Descrizione del ruolo e mansioni principali
+
+## IT Auditor
+Descrizione del ruolo e mansioni principali
+
+## IT Business Analyst
+Descrizione del ruolo e mansioni principali
+
+## IT Consultant
 Descrizione del ruolo e mansioni principali
 
 ## IT manager
@@ -139,6 +184,9 @@ Descrizione del ruolo e mansioni principali
 Descrizione del ruolo e mansioni principali
 
 ## IT security analyst
+Descrizione del ruolo e mansioni principali
+
+## IT Trainer
 Descrizione del ruolo e mansioni principali
 
 ## IT support specialist
@@ -171,16 +219,19 @@ Descrizione del ruolo e mansioni principali
 ## Platform engineer
 Descrizione del ruolo e mansioni principali
 
-## Program Manager
+## Product Manager
 Descrizione del ruolo e mansioni principali
 
-## Project Manager
+## Program Manager
 Descrizione del ruolo e mansioni principali
 
 ## Project Manager Operation (PMO)
 Descrizione del ruolo e mansioni principali
 
-## Quality Assurance Analyst
+## Quality Assurance (QA) Analyst
+Descrizione del ruolo e mansioni principali
+
+## Robotics Engineer
 Descrizione del ruolo e mansioni principali
 
 ## Scrum Master
