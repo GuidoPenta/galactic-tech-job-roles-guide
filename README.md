@@ -55,7 +55,25 @@ Le competenze necessarie per diventare un big data Architect sono:
 - Competenze di leadership e di comunicazione, per guidare e collaborare con altri professionisti.
 
 ## Business Analyst
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Un Business Analyst è responsabile di analizzare e comprendere le esigenze e i problemi aziendali, e di tradurli in requisiti specifici che possono essere implementati da una squadra di sviluppo o di gestione dei progetti.
+
+Ecco alcune delle responsabilità principali di un Business Analyst:
+
+- Raccolta e Analisi delle Informazioni: Raccoglie dati e informazioni pertinenti sulle attività aziendali, i processi, i sistemi e le tecnologie esistenti.
+- Definizione dei Requisiti: Collabora con le parti interessate per identificare e definire chiaramente i requisiti del progetto o del sistema che deve essere sviluppato o migliorato.
+- Valutazione degli Impatti: Valuta gli impatti delle modifiche proposte sui processi aziendali, i sistemi e le risorse esistenti.
+- Progettazione di Soluzioni: Lavora a stretto contatto con i team di sviluppo per creare soluzioni che soddisfino i requisiti identificati, assicurando che siano praticabili e sostenibili.
+- Documentazione: Crea documenti dettagliati come specifiche di progetto, diagrammi di flusso, casi d'uso e altro, che forniscono istruzioni chiare per l'implementazione.
+- Comunicazione e Coordinamento: Comunica costantemente con le parti interessate, inclusi i team di sviluppo, i responsabili di progetto e i dirigenti aziendali, per garantire che tutti abbiano una visione chiara degli obiettivi e delle progressioni.
+- Gestione dei Cambiamenti: Contribuisce a gestire i cambiamenti organizzativi che possono derivare dalla realizzazione di nuovi processi o sistemi.
+- Controllo della Qualità: Collabora con i team di controllo della qualità per garantire che la soluzione implementata soddisfi i requisiti stabiliti.
+- Supporto Post-Implementazione: Fornisce supporto durante la fase post-implementazione, assicurandosi che la soluzione sia effettivamente integrata nel contesto operativo dell'azienda.
+
+In sintesi, il Business Analyst agisce come ponte tra le esigenze aziendali e le soluzioni tecnologiche o operative. 
+Sono in grado di tradurre le richieste aziendali in requisiti dettagliati che possono essere implementati dal team di sviluppo o di gestione del progetto. Grazie alle loro competenze analitiche e di comunicazione, sono fondamentali per il successo di progetti e iniziative aziendali.
 
 ## Chief information officer (CIO)
 Descrizione del ruolo e mansioni principali
