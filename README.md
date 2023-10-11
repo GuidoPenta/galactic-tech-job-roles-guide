@@ -211,8 +211,5 @@ Descrizione del ruolo e mansioni principali
 ## UX/UI specialist
 Descrizione del ruolo e mansioni principali
 
-## Web developer
-Descrizione del ruolo e mansioni principali
-
 ## Web designer
 Descrizione del ruolo e mansioni principali
