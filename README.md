@@ -1,9 +1,9 @@
 # Guida Galattica ai job titles nel tech / Galactic guide to job roles in tech
 
-L'obiettivo di questa Guida Galattica è di portare un pò di chiarezza nel mercato IT italiano. 
-Molto spesso (anzi, troppo spesso) infatti i job titles/job roles vengono confusi, male interpretati e male utilizzati negli annunci di lavoro.
-L'idea quindi è di creare una lista esaustiva dei job roles più utilizzati nel mercato tech, compresa una chiara definizione dei ruoli e responsabilità principali previste dallo stesso.
-Al momento il repo è un blob di definizioni puramente testuali. Idealmente, una volta popolate tutte le voci, verrà formattato esteticamente in tabella e ogni Job Title verrà inserito in una categoria specifica.
+L'obiettivo di questa Guida Galattica è di portare un po' di chiarezza nel mercato IT italiano.  
+Molto spesso (anzi, troppo spesso) infatti i job titles/job roles vengono confusi, male interpretati e male utilizzati negli annunci di lavoro.  
+L'idea quindi è di creare una lista esaustiva dei job roles più utilizzati nel mercato tech, compresa una chiara definizione dei ruoli e responsabilità principali previste dallo stesso.  
+Al momento il repo è un blob di definizioni puramente testuali. Idealmente, una volta popolate tutte le voci, verrà formattato esteticamente in tabella e ogni Job Title verrà inserito in una categoria specifica.  
 Grazie per ogni eventuale contribuzione/proposta!
 
 ## Big data engineer
