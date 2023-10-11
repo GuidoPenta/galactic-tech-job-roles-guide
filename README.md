@@ -12,21 +12,23 @@ Un Big data engineer è un professionista dell'informatica che si occupa di racc
 
 Le mansioni tipiche di un Big data engineer includono:
 
-Acquisizione dei dati: raccolta dei dati da diverse fonti, come database, sistemi operativi, sensori, ecc.
-Elaborazione dei dati: trasformazione e pulizia dei dati per renderli compatibili con le analisi.
-Gestione dei dati: archiviazione e distribuzione dei dati in modo sicuro e accessibile.
-Analisi dei dati: sviluppo di algoritmi e modelli per l'analisi dei dati.
-Le responsabilità aggiuntive di un Big data engineer possono includere:
+- Acquisizione dei dati: raccolta dei dati da diverse fonti, come database, sistemi operativi, sensori, ecc.   
+- Elaborazione dei dati: trasformazione e pulizia dei dati per renderli compatibili con le analisi.   
+- Gestione dei dati: archiviazione e distribuzione dei dati in modo sicuro e accessibile.   
+- Analisi dei dati: sviluppo di algoritmi e modelli per l'analisi dei dati.   
 
-Coordinamento con i team di data science e business intelligence: per garantire che i dati siano disponibili e fruibili per le attività di analisi e reporting.
-Sviluppo di soluzioni di sicurezza e compliance: per proteggere i dati da accessi non autorizzati e per garantire la conformità alle normative.
-Formazione e supporto agli utenti: per aiutare gli utenti a utilizzare i sistemi e le architetture di data engineering.
-In generale, un Big data engineer è una figura professionale altamente qualificata, con competenze tecniche e analitiche avanzate. Le sue competenze includono:
+Le responsabilità aggiuntive di un Big data engineer possono includere:   
 
-Architettura dei dati: conoscenza dei principi di progettazione e implementazione di sistemi di data engineering.
-Ingegneria dei dati: conoscenza delle tecnologie e degli strumenti per l'acquisizione, l'elaborazione e la gestione dei dati.
-Analisi dei dati: conoscenza dei principi e delle tecniche di analisi dei dati.
-Sicurezza informatica: conoscenza delle misure di sicurezza per proteggere i dati.
+- Coordinamento con i team di data science e business intelligence: per garantire che i dati siano disponibili e fruibili per le attività di analisi e reporting.   
+- Sviluppo di soluzioni di sicurezza e compliance: per proteggere i dati da accessi non autorizzati e per garantire la conformità alle normative.   
+- Formazione e supporto agli utenti: per aiutare gli utenti a utilizzare i sistemi e le architetture di data engineering.   
+
+In generale, un Big data engineer è una figura professionale altamente qualificata, con competenze tecniche e analitiche avanzate. Le sue competenze includono:   
+
+- Architettura dei dati: conoscenza dei principi di progettazione e implementazione di sistemi di data engineering.   
+- Ingegneria dei dati: conoscenza delle tecnologie e degli strumenti per l'acquisizione, l'elaborazione e la gestione dei dati.   
+- Analisi dei dati: conoscenza dei principi e delle tecniche di analisi dei dati.   
+- Sicurezza informatica: conoscenza delle misure di sicurezza per proteggere i dati.   
 
 ## Big data architect
 Descrizione del ruolo e mansioni principali
@@ -160,37 +162,37 @@ Descrizione del ruolo e mansioni principali
 ### Descrizione del ruolo e mansioni principali
 Un Software Engineer, o ingegnere del software, è un professionista che si occupa della progettazione, dello sviluppo, del test e della manutenzione di software. Le sue mansioni tipiche includono:
 
-Analisi dei requisiti: Comprendere le esigenze degli utenti e i requisiti del sistema da implementare.
-Progettazione: Definire l'architettura, le funzionalità e l'interfaccia utente del software.
-Sviluppo: Implementare il software utilizzando linguaggi di programmazione e framework.
-Test: Verificare il funzionamento corretto del software.
-Manutenzione: Aggiustare e migliorare il software nel tempo.
+- Analisi dei requisiti: Comprendere le esigenze degli utenti e i requisiti del sistema da implementare.   
+- Progettazione: Definire l'architettura, le funzionalità e l'interfaccia utente del software.   
+- Sviluppo: Implementare il software utilizzando linguaggi di programmazione e framework.   
+- Test: Verificare il funzionamento corretto del software.   
+- Manutenzione: Aggiustare e migliorare il software nel tempo.   
 
 ### Seniority
 
 In genere, la seniority di un Software Engineer viene definita in base all'esperienza e alle competenze acquisite. Le seniority più comuni sono:
 
-Junior: I Junior Software Engineer hanno una breve esperienza e sono responsabili di attività di sviluppo di base.
-Middle: I Middle Software Engineer hanno una maggiore esperienza e sono responsabili di attività di sviluppo più complesse.
-Senior: I Senior Software Engineer hanno una significativa esperienza e sono responsabili di attività di progettazione e leadership.
+- Junior: I Junior Software Engineer hanno una breve esperienza e sono responsabili di attività di sviluppo di base.   
+- Middle: I Middle Software Engineer hanno una maggiore esperienza e sono responsabili di attività di sviluppo più complesse.   
+- Senior: I Senior Software Engineer hanno una significativa esperienza e sono responsabili di attività di progettazione e leadership.   
 
 ### Responsabilità aggiuntive per i Software Engineer
-I Software Engineer più senior possono avere responsabilità aggiuntive, come:
-Leadership: Guidare un team di sviluppo.
-Consulenza: Fornire consulenza tecnica a clienti o altri team.
-Ricerca e sviluppo: Sviluppare nuove tecnologie e metodologie di sviluppo.
-Similitudini e differenze tra "sviluppatore" (Software Developer) e "programmatore" ("Programmer")
+I Software Engineer più senior possono avere responsabilità aggiuntive, come:   
+- Leadership: Guidare un team di sviluppo.   
+- Consulenza: Fornire consulenza tecnica a clienti o altri team.   
+- Ricerca e sviluppo: Sviluppare nuove tecnologie e metodologie di sviluppo.   
+Similitudini e differenze tra "sviluppatore" (Software Developer) e "programmatore" ("Programmer")  
 
 Similitudini:
 
-Entrambi i termini si riferiscono a professionisti che si occupano di sviluppo software.
-Entrambi i termini richiedono competenze tecniche in programmazione.
+Entrambi i termini si riferiscono a professionisti che si occupano di sviluppo software.   
+Entrambi i termini richiedono competenze tecniche in programmazione.   
 
 Differenze:
 
-"Software Developer" è un termine più generico, che può essere utilizzato per riferirsi a qualsiasi ruolo nello sviluppo software.
-"Programmer" è un termine più specifico, che si riferisce a un professionista che si occupa principalmente di scrivere codice.
-Nota circa la traduzione di "engineer" e le eventuali limitazioni giuridiche del titolo di ingegnere/engineer
+"Software Developer" è un termine più generico, che può essere utilizzato per riferirsi a qualsiasi ruolo nello sviluppo software.   
+"Programmer" è un termine più specifico, che si riferisce a un professionista che si occupa principalmente di scrivere codice.   
+Nota circa la traduzione di "engineer" e le eventuali limitazioni giuridiche del titolo di ingegnere/engineer   
 
 In italiano, il termine "engineer" viene generalmente tradotto come "ingegnere". Tuttavia, in alcuni casi, il termine "ingegnere" è riservato a professionisti che hanno conseguito un titolo di laurea in Ingegneria. In questi casi, il termine "Software Engineer" potrebbe essere tradotto come "tecnico informatico" o "programmatore".
 
