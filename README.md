@@ -316,7 +316,7 @@ Descrizione del ruolo e mansioni principali
 Descrizione del ruolo e mansioni principali
 
 ## DevOps engineer
-Descrizione del ruolo e mansioni principali
+"Il/la Devops" non esiste. Devops è una metodologia di lavoro, non un job title.
 
 ## Developer Advocate
 Descrizione del ruolo e mansioni principali
