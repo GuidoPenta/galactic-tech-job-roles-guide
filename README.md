@@ -28,7 +28,6 @@ Grazie per ogni eventuale contribuzione/proposta!
 - [Database administrator](#database-administrator)
 - [DevOps engineer](#devops-engineer)
 - [Developer Advocate](#developer-advocate)
-- [Developer Relations (DevRel)](#developer-relations-devrel)
 - [DevSecOps engineer](#devsecops-engineer)
 - [Enterprise architect](#enterprise-architect)
 - [Frontend Developer](#frontend-developer)
@@ -319,9 +318,6 @@ Descrizione del ruolo e mansioni principali
 "Il/la Devops" non esiste. Devops è una metodologia di lavoro, non un job title.
 
 ## Developer Advocate
-Descrizione del ruolo e mansioni principali
-
-## Developer Relations (DevRel)
 Descrizione del ruolo e mansioni principali
 
 ## DevSecOps engineer
