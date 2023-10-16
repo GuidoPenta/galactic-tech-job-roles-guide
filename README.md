@@ -335,16 +335,100 @@ Le responsabilità aggiuntive di un cloud system engineer possono variare a seco
 - Gestire i costi dei servizi cloud.
 
 ## Cyber security specialist
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Il cyber security specialist è una figura professionale che si occupa della protezione delle informazioni e dei sistemi informatici da attacchi e minacce informatiche.
+
+Le mansioni tipiche di un cyber security specialist includono:
+
+- Sviluppo e implementazione di misure di sicurezza: il cyber security specialist progetta e implementa misure di sicurezza per proteggere i sistemi informatici da attacchi e minacce. Queste misure possono includere firewall, antivirus, sistemi di autenticazione e controllo degli accessi, ecc.
+- Monitoraggio e analisi della sicurezza: il cyber security specialist monitora costantemente i sistemi informatici alla ricerca di possibili minacce. In caso di rilevamento di una minaccia, il cyber security specialist deve essere in grado di analizzarla e di adottare le misure necessarie per mitigare il rischio.
+- Risposta agli incidenti di sicurezza: il cyber security specialist è responsabile della risposta agli incidenti di sicurezza. In caso di attacco informatico, il cyber security specialist deve essere in grado di intervenire rapidamente per limitare i danni e ripristinare la normale operatività dei sistemi.
+
+Oltre alle mansioni tipiche, il cyber security specialist può essere responsabile di ulteriori attività, come:
+
+- Formazione e sensibilizzazione del personale: il cyber security specialist può essere responsabile della formazione e della sensibilizzazione del personale sulle tematiche della sicurezza informatica.
+- Consulenza e supporto a clienti e partner: il cyber security specialist può fornire consulenza e supporto a clienti e partner per aiutarli a migliorare la loro sicurezza informatica.
 
 ## Data Analyst
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Un Data Analyst è una figura professionale che si occupa di raccogliere, analizzare e interpretare dati. Il suo obiettivo è estrarre informazioni utili da questi dati al fine di aiutare le aziende a prendere decisioni informate e migliorare le proprie performance.
+
+Le mansioni tipiche di un Data Analyst includono:
+
+- Raccolta dati: raccolta di dati da diverse fonti, come database interni, risorse esterne, feed di social media.
+- Pulizia e gestione dei dati: pulizia e gestione dei dati per garantire la loro accuratezza e completezza.
+- Analisi dei dati: utilizzo di tecniche statistiche e di machine learning per identificare modelli e tendenze nei dati.
+- Presentazione dei risultati: presentazione dei risultati dell'analisi in modo chiaro e conciso al fine di facilitarne la comprensione da parte dei decisori.
+
+In aggiunta a queste mansioni, un Data Analyst può anche avere responsabilità aggiuntive, come:
+
+- Sviluppo di modelli predittivi: sviluppo di modelli predittivi per prevedere eventi futuri.
+- Progettazione di dashboard e report: progettazione di dashboard e report per visualizzare i risultati dell'analisi.
+- Formazione degli utenti: formazione degli utenti sulle tecniche di analisi dei dati.
+
+## Data Engineer
+
+### Descrizione del ruolo e mansioni principali
+
+Il Data Engineer è una figura professionale che si occupa di progettare, costruire e mantenere i sistemi di gestione dei dati. Il suo compito è garantire che i dati siano disponibili, accessibili, sicuri e di alta qualità.
+
+Le mansioni tipiche di un Data Engineer includono:
+
+- Raccolta dati: il Data Engineer si occupa di raccogliere dati da varie fonti, sia interne che esterne all'organizzazione.
+- Trasformazione dati: il Data Engineer elabora i dati grezzi per renderli conformi ai requisiti dell'organizzazione.
+- Stoccaggio dati: il Data Engineer archivia i dati in un sistema sicuro e accessibile.
+- Accesso ai dati: il Data Engineer crea strumenti e politiche per consentire agli utenti di accedere ai dati in modo sicuro ed efficiente.
+- Governance dei dati: il Data Engineer si occupa di garantire la qualità, la sicurezza e la conformità dei dati.
+
+In aggiunta a queste mansioni, un Data Engineer può essere responsabile di attività come:
+
+- Sviluppo di algoritmi di machine learning e intelligenza artificiale
+- Creazione di dashboard e reportistica
+- Collaborazione con altri team aziendali
+
+Il Data Engineer è una figura chiave nel processo di data science. Il suo lavoro è fondamentale per garantire che i dati siano disponibili e accessibili per gli analisti e i data scientist, che possono utilizzarli per prendere decisioni informate.
 
 ## Data scientist
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Il Data Scientist è una figura professionale che si occupa di raccogliere, analizzare e interpretare grandi quantità di dati per estrarre informazioni utili e supportare le decisioni aziendali.
+
+Le mansioni tipiche di un Data Scientist includono:
+
+- Definizione delle domande di ricerca: il Data Scientist deve capire quali informazioni sono necessarie per rispondere a specifici problemi aziendali.
+- Selezione, raccolta e integrazione dei dati: il Data Scientist deve identificare, raccogliere e integrare i dati provenienti da diverse fonti, sia interne che esterne all'azienda.
+- Analisi dei dati: il Data Scientist deve utilizzare tecniche statistiche e di machine learning per analizzare i dati e identificare le tendenze e i modelli nascosti.
+- Creazione di modelli predittivi: il Data Scientist può utilizzare i modelli predittivi per prevedere il comportamento futuro dei clienti, dei prodotti o dei processi aziendali.
+- Comunicazione dei risultati: il Data Scientist deve comunicare i risultati delle analisi e dei modelli predittivi ai responsabili delle decisioni aziendali in modo chiaro e conciso.
+
+Inoltre, un Data Scientist può avere anche le seguenti responsabilità aggiuntive:
+
+- Sviluppo di algoritmi e software: il Data Scientist può essere coinvolto nello sviluppo di algoritmi e software per la raccolta, l'analisi e l'interpretazione dei dati.
+- Gestione di progetti di data science: il Data Scientist può essere responsabile della gestione di progetti di data science che coinvolgono più persone e team.
+- Formazione e supporto agli utenti: il Data Scientist può fornire formazione e supporto agli utenti che utilizzano i modelli e le analisi di data science.
 
 ## Database administrator
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Il Database Administrator (DBA) è la figura professionale che si occupa della progettazione, implementazione, gestione e manutenzione dei database. Il suo obiettivo è garantire che i dati siano disponibili, accessibili e protetti, in modo da supportare le attività aziendali.
+
+Le mansioni tipiche di un DBA includono:
+
+- Progettazione e implementazione di database: il DBA collabora con gli sviluppatori e gli utenti aziendali per progettare e implementare database che soddisfino le esigenze specifiche dell'organizzazione.
+- Gestione dei database: il DBA è responsabile della gestione quotidiana dei database, tra cui la manutenzione dei server, l'esecuzione di backup e la risoluzione dei problemi.
+- Sicurezza dei database: il DBA è responsabile della protezione dei dati da accessi non autorizzati, modifiche o distruzione.
+
+Inoltre, il DBA può svolgere anche le seguenti responsabilità aggiuntive:
+
+- Ottimizzazione delle prestazioni: il DBA può lavorare con gli sviluppatori per ottimizzare le prestazioni dei database, in modo che possano supportare carichi di lavoro elevati.
+- Monitoraggio e reporting: il DBA può monitorare le prestazioni e la disponibilità dei database e generare report per gli utenti aziendali.
+- Formazione e supporto: il DBA può fornire formazione e supporto agli utenti aziendali per l'utilizzo dei database.
 
 ## DevOps engineer
 "Il/la Devops" non esiste. Devops è una metodologia di lavoro, non un job title.
@@ -356,7 +440,22 @@ Descrizione del ruolo e mansioni principali
 Descrizione del ruolo e mansioni principali
 
 ## DevSecOps engineer
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+Un DevSecOps engineer è un professionista che combina competenze in sviluppo software, operazioni e sicurezza. La sua figura è fondamentale per garantire la sicurezza del software durante tutto il suo ciclo di vita, dall'ideazione alla produzione.
+
+Le mansioni tipiche di un DevSecOps engineer includono:
+
+- Implementare le best practice di sicurezza nel processo di sviluppo, come la scansione del codice per vulnerabilità, il test di sicurezza e la gestione dei rischi.
+- Collaborare con gli sviluppatori e gli operatori per integrare la sicurezza nel processo DevOps, assicurando che la sicurezza sia una considerazione primaria in tutte le fasi dello sviluppo e della distribuzione del software.
+- Monitorare il software in produzione per rilevare e mitigare le vulnerabilità.
+
+Le responsabilità aggiuntive di un DevSecOps engineer possono includere:
+
+- Formazione e sensibilizzazione alla sicurezza per gli sviluppatori e gli operatori.
+- Sviluppo e implementazione di strumenti e processi di sicurezza automatizzati.
+- Coordinamento con i team di sicurezza aziendali.
 
 ## Enterprise architect
 Descrizione del ruolo e mansioni principali
