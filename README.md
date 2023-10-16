@@ -79,7 +79,25 @@ Grazie per ogni eventuale contribuzione/proposta!
 - [Web designer](#web-designer)
 
 ## AI Engineer
-Descrizione del ruolo e mansioni principali
+
+### Descrizione del ruolo e mansioni principali
+
+L'AI Engineer è una figura professionale che si occupa della progettazione, sviluppo e implementazione di sistemi basati sull'intelligenza artificiale. 
+
+Le sue mansioni tipiche includono:
+
+- Analisi dei problemi e definizione dei requisiti: l'ingegnere AI deve comprendere le esigenze del cliente o dell'utente finale e definire le funzionalità che il sistema deve avere per soddisfare tali esigenze.
+- Sviluppo di algoritmi e modelli di apprendimento automatico: l'ingegnere AI deve progettare e implementare algoritmi e modelli di apprendimento automatico che siano in grado di apprendere dai dati e risolvere i problemi definiti.
+- Codifica e sviluppo del software: l'ingegnere AI deve codificare e sviluppare il software che implementa gli algoritmi e i modelli di apprendimento automatico.
+- Test e validazione del sistema: l'ingegnere AI deve testare e validare il sistema per assicurarsi che soddisfi i requisiti e funzioni correttamente.
+- Deploy e manutenzione del sistema: l'ingegnere AI deve deployare il sistema in produzione e mantenerlo aggiornato.
+
+In aggiunta a queste mansioni, l'ingegnere AI può essere coinvolto anche in attività di ricerca e sviluppo, formazione e consulenza.
+
+Ecco alcune responsabilità aggiuntive che possono essere associate alla figura dell'ingegnere AI:
+- Collaborazione con altri team: l'ingegnere AI può collaborare con team di data science, ingegneri software, product manager e altri professionisti per sviluppare e implementare sistemi basati sull'intelligenza artificiale.
+- Comunicazione con le parti interessate: l'ingegnere AI deve essere in grado di comunicare efficacemente con le parti interessate, tra cui clienti, utenti finali, manager e altri ingegneri.
+- Responsabilità etiche: l'ingegnere AI deve essere consapevole delle implicazioni etiche dell'intelligenza artificiale e deve prendere decisioni responsabili.
 
 ## Backend developer
 
@@ -252,6 +270,9 @@ Le mansioni tipiche di un CTO includono:
 Le responsabilità aggiuntive di un CTO possono variare a seconda delle dimensioni e del settore dell'azienda. Ad esempio, un CTO in un'azienda tecnologica potrebbe essere anche responsabile della ricerca e sviluppo di nuove tecnologie, mentre un CTO in un'azienda manifatturiera potrebbe essere anche responsabile dell'ingegneria di prodotto.
 
 ## Cloud architect
+
+### Descrizione del ruolo e mansioni principali
+
 Un Cloud Architect è un professionista IT che supervisiona la gestione e la manutenzione del sistema di cloud computing di un'organizzazione. È responsabile dello sviluppo di strategie cloud, della valutazione di applicazioni e hardware cloud e dell'organizzazione dei sistemi cloud per soddisfare le esigenze operative dell'organizzazione.
 
 Responsabilità e mansioni del Cloud Architect:
@@ -295,13 +316,23 @@ Le responsabilità aggiuntive di un cloud engineer possono variare a seconda del
 Inoltre, un cloud engineer può essere coinvolto in progetti di innovazione cloud, come lo sviluppo di nuove applicazioni o la migrazione di applicazioni legacy al cloud.
 
 ## Cloud systems engineer
-Descrizione del ruolo e mansioni principali
 
-## Cloud/software architect
-Descrizione del ruolo e mansioni principali
+### Descrizione del ruolo e mansioni principali
 
-## Cloud/software developer
-Descrizione del ruolo e mansioni principali
+Un Cloyd systems engineer è un professionista IT che progetta, implementa e gestisce sistemi e applicazioni basati sul cloud. 
+
+Le mansioni tipiche di un cloud system engineer includono:
+
+- Valutare l'infrastruttura IT esistente di un'organizzazione e identificare le opportunità di migrazione al cloud.
+- Progettare e implementare sistemi e applicazioni basati sul cloud.
+- Gestire e monitorare i sistemi e le applicazioni basati sul cloud.
+- Garantire la sicurezza e l'affidabilità dei sistemi e delle applicazioni basati sul cloud.
+
+Le responsabilità aggiuntive di un cloud system engineer possono variare a seconda del settore e della dimensione dell'organizzazione per cui lavora. Ad esempio, un cloud system engineer potrebbe anche essere responsabile di:
+
+- Formare e supportare gli utenti finali dei sistemi e delle applicazioni basati sul cloud.
+- Collaborare con altri team IT, come gli sviluppatori di software o i responsabili della sicurezza.
+- Gestire i costi dei servizi cloud.
 
 ## Cyber security specialist
 Descrizione del ruolo e mansioni principali
