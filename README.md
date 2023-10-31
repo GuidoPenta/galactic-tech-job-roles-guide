@@ -103,9 +103,9 @@ Ecco alcune responsabilità aggiuntive che possono essere associate alla figura 
 
 ### Descrizione del ruolo e mansioni principali
 
-Il backend developer è un programmatore specializzato nella codifica lato server di un'applicazione software. In altre parole, si occupa di sviluppare le funzionalità che non sono visibili all'utente, ma che sono fondamentali per il funzionamento dell'applicazione.
+Il backend developer è una persona che sviluppa specializzata nella codifica lato server di un'applicazione software. In altre parole, si occupa di sviluppare le funzionalità che non sono visibili all'utente, ma che sono fondamentali per il funzionamento dell'applicazione.
 
-Le mansioni tipiche di un backend developer includono:
+Le mansioni tipiche di un/a backend developer includono:
 
 - Sviluppo di codice per l'elaborazione delle richieste dell'utente, come ad esempio la registrazione di un nuovo account, l'acquisto di un prodotto o il caricamento di un file.
 - Interazione con il database, per la memorizzazione e la gestione dei dati.
@@ -118,28 +118,28 @@ Inoltre, il backend developer può essere coinvolto in altre attività, come:
 - Test e debug, per verificare che l'applicazione funzioni correttamente.
 - Documentazione, per facilitare la manutenzione e lo sviluppo futuro dell'applicazione.
 
-Le responsabilità aggiuntive di un backend developer possono variare in base alla specifica azienda o progetto. Ad esempio, un backend developer potrebbe essere responsabile della sicurezza dell'applicazione, della scalabilità o dell'integrazione con sistemi legacy.
+Le responsabilità aggiuntive di un/a backend developer possono variare in base alla specifica azienda o progetto. Ad esempio, un/a backend developer potrebbe essere responsabile della sicurezza dell'applicazione, della scalabilità o dell'integrazione con sistemi legacy.
 
 ## Big data engineer
 
 ### Descrizione del ruolo e mansioni principali
 
-Un Big data engineer è un professionista dell'informatica che si occupa di raccogliere, elaborare e gestire grandi quantità di dati. Il suo compito è progettare e implementare sistemi e architetture per l'analisi dei dati, in modo da renderli disponibili e fruibili per i decisori aziendali.
+Un/a Big data engineer è un/a professionista dell'informatica che si occupa di raccogliere, elaborare e gestire grandi quantità di dati. Il suo compito è progettare e implementare sistemi e architetture per l'analisi dei dati, in modo da renderli disponibili e fruibili per i decisori aziendali.
 
-Le mansioni tipiche di un Big data engineer includono:
+Le mansioni tipiche di un/a Big data engineer includono:
 
 - Acquisizione dei dati: raccolta dei dati da diverse fonti, come database, sistemi operativi, sensori, ecc.   
 - Elaborazione dei dati: trasformazione e pulizia dei dati per renderli compatibili con le analisi.   
 - Gestione dei dati: archiviazione e distribuzione dei dati in modo sicuro e accessibile.   
 - Analisi dei dati: sviluppo di algoritmi e modelli per l'analisi dei dati.   
 
-Le responsabilità aggiuntive di un Big data engineer possono includere:   
+Le responsabilità aggiuntive di un/a Big data engineer possono includere:   
 
 - Coordinamento con i team di data science e business intelligence: per garantire che i dati siano disponibili e fruibili per le attività di analisi e reporting.   
 - Sviluppo di soluzioni di sicurezza e compliance: per proteggere i dati da accessi non autorizzati e per garantire la conformità alle normative.   
 - Formazione e supporto agli utenti: per aiutare gli utenti a utilizzare i sistemi e le architetture di data engineering.   
 
-In generale, un Big data engineer è una figura professionale altamente qualificata, con competenze tecniche e analitiche avanzate. Le sue competenze includono:   
+In generale, un/a Big data engineer è una figura professionale altamente qualificata, con competenze tecniche e analitiche avanzate. Le sue competenze includono:   
 
 - Architettura dei dati: conoscenza dei principi di progettazione e implementazione di sistemi di data engineering.   
 - Ingegneria dei dati: conoscenza delle tecnologie e degli strumenti per l'acquisizione, l'elaborazione e la gestione dei dati.   
@@ -150,7 +150,7 @@ In generale, un Big data engineer è una figura professionale altamente qualific
 
 ### Descrizione del ruolo e mansioni principali
 
-Un Big Data Architect è un professionista che progetta e implementa soluzioni per l'archiviazione, l'elaborazione e l'analisi dei big data. 
+Un/a Big Data Architect è un/a professionista che progetta e implementa soluzioni per l'archiviazione, l'elaborazione e l'analisi dei big data. 
 
 Le sue mansioni tipiche includono:
 - Definire la strategia di big data dell'azienda, inclusa la raccolta, la conservazione, l'analisi e l'utilizzo dei dati.
@@ -159,12 +159,12 @@ Le sue mansioni tipiche includono:
 - Costruire e gestire l'infrastruttura dei big data, ovvero i server, i database e i sistemi di calcolo che ospitano i dati.
 - Assicurare la qualità e la sicurezza dei dati.
 
-Inoltre, un Big Data Architect può avere anche le seguenti responsabilità aggiuntive:
+Inoltre, un/a Big Data Architect può avere anche le seguenti responsabilità aggiuntive:
 - Formare e guidare le risorse umane che lavorano nell'ambito dei big data.
 - Collaborare con i responsabili IT e di business per garantire che le soluzioni di big data siano allineate alle esigenze dell'azienda.
 - Monitorare e ottimizzare le prestazioni dei sistemi di big data.
 
-Le competenze necessarie per diventare un big data Architect sono:
+Le competenze necessarie per diventare un/a big data Architect sono:
 - Competenze informatiche, in particolare in ambito database, sistemi di elaborazione distribuita e analisi dei dati.
 - Competenze matematiche e statistiche, per la comprensione e l'analisi dei dati.
 - Competenze di business, per comprendere le esigenze dell'azienda e i benefici che i big data possono apportare.
@@ -174,15 +174,15 @@ Le competenze necessarie per diventare un big data Architect sono:
 
 ### Descrizione del ruolo e mansioni principali
 
-Un ingegnere blockchain è un professionista tecnico responsabile della progettazione, sviluppo, implementazione e manutenzione di applicazioni basate sulla tecnologia blockchain. Questo ruolo richiede una profonda conoscenza della tecnologia di ledger distribuiti, della crittografia e dei contratti intelligenti.
+Un/a Blockchain Engineer è un/a professionista tecnico responsabile della progettazione, sviluppo, implementazione e manutenzione di applicazioni basate sulla tecnologia blockchain. Questo ruolo richiede una profonda conoscenza della tecnologia di ledger distribuiti, della crittografia e dei contratti intelligenti.
 
-Le mansioni tipiche di un ingegnere blockchain includono:
+Le mansioni tipiche di un/a Blockchain Engineer includono:
 
 - Progettazione e sviluppo di applicazioni blockchain: gli ingegneri blockchain collaborano con analisti, sviluppatori e altri professionisti per progettare e sviluppare applicazioni blockchain che soddisfino le esigenze specifiche di un'azienda o di un settore.
 - Implementazione di applicazioni blockchain: gli ingegneri blockchain sono responsabili dell'implementazione di applicazioni blockchain su una rete blockchain.
 - Manutenzione di applicazioni blockchain: gli ingegneri blockchain sono responsabili della manutenzione e dell'aggiornamento di applicazioni blockchain per garantire che funzionino correttamente.
 
-Responsabilità aggiuntive che un ingegnere blockchain può avere includono:
+Responsabilità aggiuntive che un/a Blockchain Engineer può avere includono:
 
 - Formazione e consulenza: gli ingegneri blockchain possono essere chiamati a formare e consigliare altri team all'interno di un'azienda sulle tecnologie blockchain.
 - Ricerca e sviluppo: gli ingegneri blockchain possono essere coinvolti in attività di ricerca e sviluppo per migliorare le tecnologie blockchain.
@@ -192,9 +192,9 @@ Responsabilità aggiuntive che un ingegnere blockchain può avere includono:
 
 ### Descrizione del ruolo e mansioni principali
 
-Un Business Analyst è responsabile di analizzare e comprendere le esigenze e i problemi aziendali, e di tradurli in requisiti specifici che possono essere implementati da una squadra di sviluppo o di gestione dei progetti.
+un/a Business Analyst è responsabile di analizzare e comprendere le esigenze e i problemi aziendali, e di tradurli in requisiti specifici che possono essere implementati da una squadra di sviluppo o di gestione dei progetti.
 
-Ecco alcune delle responsabilità principali di un Business Analyst:
+Ecco alcune delle responsabilità principali di un/a Business Analyst:
 
 - Raccolta e Analisi delle Informazioni: Raccoglie dati e informazioni pertinenti sulle attività aziendali, i processi, i sistemi e le tecnologie esistenti.
 - Definizione dei Requisiti: Collabora con le parti interessate per identificare e definire chiaramente i requisiti del progetto o del sistema che deve essere sviluppato o migliorato.
@@ -213,16 +213,16 @@ Sono in grado di tradurre le richieste aziendali in requisiti dettagliati che po
 
 ### Descrizione del ruolo e mansioni principali
 
-Il Chief Information Officer (CIO) è il responsabile dell'architettura, della gestione e della sicurezza dei sistemi informativi di un'azienda. È un ruolo strategico che si occupa di garantire che le tecnologie siano utilizzate in modo efficiente e produttivo per supportare gli obiettivi aziendali.
+Il/la Chief Information Officer (CIO) è responsabile dell'architettura, della gestione e della sicurezza dei sistemi informativi di un'azienda. È un ruolo strategico che si occupa di garantire che le tecnologie siano utilizzate in modo efficiente e produttivo per supportare gli obiettivi aziendali.
 
-Le mansioni tipiche di un CIO includono:
+Le mansioni tipiche di un/a CIO includono:
 
 - Definizione della strategia IT aziendale: il CIO collabora con il CEO e altri dirigenti per sviluppare una strategia IT che supporti gli obiettivi aziendali.
 - Gestione dei sistemi informativi: il CIO è responsabile della gestione dei sistemi informatici dell'azienda, inclusi i server, i database, i reti e le applicazioni software.
 - Gestione dei dati: il CIO è responsabile della gestione dei dati dell'azienda, inclusa la sicurezza, la conformità e l'analisi.
 - Gestione delle risorse IT: il CIO è responsabile della gestione del personale IT, dei budget e delle risorse IT.
 
-Oltre alle mansioni tipiche, un CIO può avere anche responsabilità aggiuntive, come:
+Oltre alle mansioni tipiche, un/a CIO può avere anche responsabilità aggiuntive, come:
 
 - Direzione della trasformazione digitale: il CIO può essere responsabile della guida della trasformazione digitale dell'azienda, che include l'adozione di nuove tecnologie e l'innovazione dei processi aziendali.
 - Leadership e sviluppo del personale IT: il CIO può essere responsabile della leadership e dello sviluppo del personale IT dell'azienda.
@@ -234,9 +234,9 @@ In conclusione, il CIO è una figura chiave nelle aziende moderne. È responsabi
 
 ### Descrizione del ruolo e mansioni principali
 
-Il Chief Information Security Officer (CISO) è la figura responsabile della sicurezza informatica di un'organizzazione. Si occupa di proteggere i dati e le infrastrutture informatiche dell'azienda da attacchi informatici, violazioni della privacy e altri rischi.
+Un/a Chief Information Security Officer (CISO) è la figura responsabile della sicurezza informatica di un'organizzazione. Si occupa di proteggere i dati e le infrastrutture informatiche dell'azienda da attacchi informatici, violazioni della privacy e altri rischi.
 
-Le mansioni tipiche di un CISO includono:
+Le mansioni tipiche di un/a CISO includono:
 
 - Definire e implementare una strategia di sicurezza informatica che tenga conto delle esigenze e degli obiettivi dell'azienda.
 - Gestire un team di sicurezza informatica composto da esperti di diverse discipline.
@@ -249,7 +249,7 @@ In aggiunta a queste mansioni, il CISO può avere anche responsabilità aggiunti
 - Collaborare con altri reparti aziendali per garantire la sicurezza dei dati e delle infrastrutture.
 - Rappresentare l'azienda in ambito di sicurezza informatica.
 
-Ecco alcuni esempi di responsabilità aggiuntive che un CISO può avere:
+Ecco alcuni esempi di responsabilità aggiuntive che un/a CISO può avere:
 
 - Gestione dei contratti con i fornitori di servizi IT per garantire che rispettino gli standard di sicurezza dell'azienda.
 - Partecipazione a progetti di trasformazione digitale per garantire che la sicurezza informatica sia integrata nelle nuove tecnologie.
@@ -259,21 +259,21 @@ Ecco alcuni esempi di responsabilità aggiuntive che un CISO può avere:
 
 ### Descrizione del ruolo e mansioni principali
 
-Il Chief Technology Officer (CTO) è un manager di alto livello che si occupa della strategia tecnologica di un'azienda. È responsabile della definizione, dello sviluppo e dell'implementazione della tecnologia che supporta i prodotti, i servizi e i processi dell'azienda.
+Un/a Chief Technology Officer (CTO) è un/a manager di alto livello che si occupa della strategia tecnologica di un'azienda. È responsabile della definizione, dello sviluppo e dell'implementazione della tecnologia che supporta i prodotti, i servizi e i processi dell'azienda.
 
-Le mansioni tipiche di un CTO includono:
+Le mansioni tipiche di un/a CTO includono:
 
 - Definizione della strategia tecnologica: il CTO è responsabile di definire la strategia tecnologica dell'azienda, che dovrebbe essere allineata con la strategia aziendale generale. Questo include la valutazione delle tecnologie emergenti, la definizione dei requisiti tecnologici e la definizione di un piano per il loro sviluppo e implementazione.
 - Sviluppo e implementazione della tecnologia: il CTO è responsabile dello sviluppo e dell'implementazione della tecnologia che supporta i prodotti, i servizi e i processi dell'azienda. Questo può includere la gestione di team di ingegneri e sviluppatori, la supervisione di progetti di tecnologia e l'assicurazione della qualità della tecnologia.
 - Gestione dell'infrastruttura tecnologica: il CTO è responsabile della gestione dell'infrastruttura tecnologica dell'azienda, che include hardware, software, rete e sicurezza. Questo include la definizione dei requisiti infrastrutturali, la gestione dei fornitori e la supervisione della manutenzione e dell'aggiornamento dell'infrastruttura.
 
-Le responsabilità aggiuntive di un CTO possono variare a seconda delle dimensioni e del settore dell'azienda. Ad esempio, un CTO in un'azienda tecnologica potrebbe essere anche responsabile della ricerca e sviluppo di nuove tecnologie, mentre un CTO in un'azienda manifatturiera potrebbe essere anche responsabile dell'ingegneria di prodotto.
+Le responsabilità aggiuntive di un/a CTO possono variare a seconda delle dimensioni e del settore dell'azienda. Ad esempio, un/a CTO in un'azienda tecnologica potrebbe essere anche responsabile della ricerca e sviluppo di nuove tecnologie, mentre un CTO in un'azienda manifatturiera potrebbe essere anche responsabile dell'ingegneria di prodotto.
 
 ## Cloud architect
 
 ### Descrizione del ruolo e mansioni principali
 
-Un Cloud Architect è un professionista IT che supervisiona la gestione e la manutenzione del sistema di cloud computing di un'organizzazione. È responsabile dello sviluppo di strategie cloud, della valutazione di applicazioni e hardware cloud e dell'organizzazione dei sistemi cloud per soddisfare le esigenze operative dell'organizzazione.
+un/a Cloud Architect è un/a professionista IT che supervisiona la gestione e la manutenzione del sistema di cloud computing di un'organizzazione. È responsabile dello sviluppo di strategie cloud, della valutazione di applicazioni e hardware cloud e dell'organizzazione dei sistemi cloud per soddisfare le esigenze operative dell'organizzazione.
 
 Responsabilità e mansioni del Cloud Architect:
 - Creare una strategia cloud ben informata e gestire il processo di adattamento.
@@ -285,27 +285,27 @@ Responsabilità e mansioni del Cloud Architect:
 - Guidare l'organizzazione nell'adozione del cloud e stabilire le best practice.
 - Esaminare e selezionare i fornitori di cloud e i servizi di terze parti
 
-Oltre che capacità tecniche, un Cloud Architect deve avere anche forti skill comunicative (scritte e verbali) per esprimere al meglio le soluzioni e interfacciarsi con il management.
+Oltre che capacità tecniche, un/a Cloud Architect deve avere anche forti skill comunicative (scritte e verbali) per esprimere al meglio le soluzioni e interfacciarsi con il management.
 
 ## Cloud computing engineer
 
 ### Descrizione del ruolo e mansioni principali
 
-Un Cloud computing engineer, o ingegnere del cloud, è un professionista IT che progetta, implementa e gestisce l'infrastruttura cloud di un'organizzazione. Le sue mansioni tipiche includono:
+Un/a Cloud computing engineer, o ingegnere del cloud, è un/a professionista IT che progetta, implementa e gestisce l'infrastruttura cloud di un'organizzazione. Le sue mansioni tipiche includono:
 
 - Valutare le esigenze di un'organizzazione e progettare soluzioni cloud personalizzate.
 - Implementare e configurare servizi cloud, come server, storage, database, reti e software.
 - Gestire e monitorare l'infrastruttura cloud per garantire prestazioni, sicurezza e disponibilità.
 - Eseguire operazioni di manutenzione e risoluzione dei problemi.
 
-Inoltre, un Cloud Engineer può essere responsabile di attività aggiuntive, come:
+Inoltre, un/a Cloud Engineer può essere responsabile di attività aggiuntive, come:
 - Sviluppo e implementazione di applicazioni cloud.
 - Formazione e consulenza agli utenti sui servizi cloud.
 - Ricerca e sviluppo di nuove tecnologie cloud.
 
 Responsabilità aggiuntive
 
-Le responsabilità aggiuntive di un cloud engineer possono variare a seconda dell'organizzazione e della posizione. Ad esempio, un cloud engineer può essere responsabile di:
+Le responsabilità aggiuntive di un/a cloud engineer possono variare a seconda dell'organizzazione e della posizione. Ad esempio, un/a cloud engineer può essere responsabile di:
 
 - Gestione dei costi cloud.
 - Sicurezza cloud.
@@ -313,22 +313,22 @@ Le responsabilità aggiuntive di un cloud engineer possono variare a seconda del
 - Analisi dei dati cloud.
 - Intelligenza artificiale e machine learning cloud.
 
-Inoltre, un cloud engineer può essere coinvolto in progetti di innovazione cloud, come lo sviluppo di nuove applicazioni o la migrazione di applicazioni legacy al cloud.
+Inoltre, un/a cloud engineer può essere coinvolto in progetti di innovazione cloud, come lo sviluppo di nuove applicazioni o la migrazione di applicazioni legacy al cloud.
 
 ## Cloud systems engineer
 
 ### Descrizione del ruolo e mansioni principali
 
-Un Cloyd systems engineer è un professionista IT che progetta, implementa e gestisce sistemi e applicazioni basati sul cloud. 
+Un/a Cloud systems engineer è un/a professionista IT che progetta, implementa e gestisce sistemi e applicazioni basati sul cloud. 
 
-Le mansioni tipiche di un cloud system engineer includono:
+Le mansioni tipiche di un/a cloud system engineer includono:
 
 - Valutare l'infrastruttura IT esistente di un'organizzazione e identificare le opportunità di migrazione al cloud.
 - Progettare e implementare sistemi e applicazioni basati sul cloud.
 - Gestire e monitorare i sistemi e le applicazioni basati sul cloud.
 - Garantire la sicurezza e l'affidabilità dei sistemi e delle applicazioni basati sul cloud.
 
-Le responsabilità aggiuntive di un cloud system engineer possono variare a seconda del settore e della dimensione dell'organizzazione per cui lavora. Ad esempio, un cloud system engineer potrebbe anche essere responsabile di:
+Le responsabilità aggiuntive di un/a cloud system engineer possono variare a seconda del settore e della dimensione dell'organizzazione per cui lavora. Ad esempio, un/a cloud system engineer potrebbe anche essere responsabile di:
 
 - Formare e supportare gli utenti finali dei sistemi e delle applicazioni basati sul cloud.
 - Collaborare con altri team IT, come gli sviluppatori di software o i responsabili della sicurezza.
@@ -338,9 +338,9 @@ Le responsabilità aggiuntive di un cloud system engineer possono variare a seco
 
 ### Descrizione del ruolo e mansioni principali
 
-Il cyber security specialist è una figura professionale che si occupa della protezione delle informazioni e dei sistemi informatici da attacchi e minacce informatiche.
+Il/la cyber security specialist è una figura professionale che si occupa della protezione delle informazioni e dei sistemi informatici da attacchi e minacce informatiche.
 
-Le mansioni tipiche di un cyber security specialist includono:
+Le mansioni tipiche di un/a cyber security specialist includono:
 
 - Sviluppo e implementazione di misure di sicurezza: il cyber security specialist progetta e implementa misure di sicurezza per proteggere i sistemi informatici da attacchi e minacce. Queste misure possono includere firewall, antivirus, sistemi di autenticazione e controllo degli accessi, ecc.
 - Monitoraggio e analisi della sicurezza: il cyber security specialist monitora costantemente i sistemi informatici alla ricerca di possibili minacce. In caso di rilevamento di una minaccia, il cyber security specialist deve essere in grado di analizzarla e di adottare le misure necessarie per mitigare il rischio.
@@ -355,16 +355,16 @@ Oltre alle mansioni tipiche, il cyber security specialist può essere responsabi
 
 ### Descrizione del ruolo e mansioni principali
 
-Un Data Analyst è una figura professionale che si occupa di raccogliere, analizzare e interpretare dati. Il suo obiettivo è estrarre informazioni utili da questi dati al fine di aiutare le aziende a prendere decisioni informate e migliorare le proprie performance.
+un/a Data Analyst è una figura professionale che si occupa di raccogliere, analizzare e interpretare dati. Il suo obiettivo è estrarre informazioni utili da questi dati al fine di aiutare le aziende a prendere decisioni informate e migliorare le proprie performance.
 
-Le mansioni tipiche di un Data Analyst includono:
+Le mansioni tipiche di un/a Data Analyst includono:
 
 - Raccolta dati: raccolta di dati da diverse fonti, come database interni, risorse esterne, feed di social media.
 - Pulizia e gestione dei dati: pulizia e gestione dei dati per garantire la loro accuratezza e completezza.
 - Analisi dei dati: utilizzo di tecniche statistiche e di machine learning per identificare modelli e tendenze nei dati.
 - Presentazione dei risultati: presentazione dei risultati dell'analisi in modo chiaro e conciso al fine di facilitarne la comprensione da parte dei decisori.
 
-In aggiunta a queste mansioni, un Data Analyst può anche avere responsabilità aggiuntive, come:
+In aggiunta a queste mansioni, un/a Data Analyst può anche avere responsabilità aggiuntive, come:
 
 - Sviluppo di modelli predittivi: sviluppo di modelli predittivi per prevedere eventi futuri.
 - Progettazione di dashboard e report: progettazione di dashboard e report per visualizzare i risultati dell'analisi.
@@ -374,9 +374,9 @@ In aggiunta a queste mansioni, un Data Analyst può anche avere responsabilità 
 
 ### Descrizione del ruolo e mansioni principali
 
-Il Data Engineer è una figura professionale che si occupa di progettare, costruire e mantenere i sistemi di gestione dei dati. Il suo compito è garantire che i dati siano disponibili, accessibili, sicuri e di alta qualità.
+Il/la Data Engineer è una figura professionale che si occupa di progettare, costruire e mantenere i sistemi di gestione dei dati. Il suo compito è garantire che i dati siano disponibili, accessibili, sicuri e di alta qualità.
 
-Le mansioni tipiche di un Data Engineer includono:
+Le mansioni tipiche di un/a Data Engineer includono:
 
 - Raccolta dati: il Data Engineer si occupa di raccogliere dati da varie fonti, sia interne che esterne all'organizzazione.
 - Trasformazione dati: il Data Engineer elabora i dati grezzi per renderli conformi ai requisiti dell'organizzazione.
@@ -384,21 +384,21 @@ Le mansioni tipiche di un Data Engineer includono:
 - Accesso ai dati: il Data Engineer crea strumenti e politiche per consentire agli utenti di accedere ai dati in modo sicuro ed efficiente.
 - Governance dei dati: il Data Engineer si occupa di garantire la qualità, la sicurezza e la conformità dei dati.
 
-In aggiunta a queste mansioni, un Data Engineer può essere responsabile di attività come:
+In aggiunta a queste mansioni, un/a Data Engineer può essere responsabile di attività come:
 
 - Sviluppo di algoritmi di machine learning e intelligenza artificiale
 - Creazione di dashboard e reportistica
 - Collaborazione con altri team aziendali
 
-Il Data Engineer è una figura chiave nel processo di data science. Il suo lavoro è fondamentale per garantire che i dati siano disponibili e accessibili per gli analisti e i data scientist, che possono utilizzarli per prendere decisioni informate.
+Il/la Data Engineer è una figura chiave nel processo di data science. Il suo lavoro è fondamentale per garantire che i dati siano disponibili e accessibili per gli analisti e i data scientist, che possono utilizzarli per prendere decisioni informate.
 
 ## Data scientist
 
 ### Descrizione del ruolo e mansioni principali
 
-Il Data Scientist è una figura professionale che si occupa di raccogliere, analizzare e interpretare grandi quantità di dati per estrarre informazioni utili e supportare le decisioni aziendali.
+Il/la Data Scientist è una figura professionale che si occupa di raccogliere, analizzare e interpretare grandi quantità di dati per estrarre informazioni utili e supportare le decisioni aziendali.
 
-Le mansioni tipiche di un Data Scientist includono:
+Le mansioni tipiche di un/a Data Scientist includono:
 
 - Definizione delle domande di ricerca: il Data Scientist deve capire quali informazioni sono necessarie per rispondere a specifici problemi aziendali.
 - Selezione, raccolta e integrazione dei dati: il Data Scientist deve identificare, raccogliere e integrare i dati provenienti da diverse fonti, sia interne che esterne all'azienda.
@@ -406,7 +406,7 @@ Le mansioni tipiche di un Data Scientist includono:
 - Creazione di modelli predittivi: il Data Scientist può utilizzare i modelli predittivi per prevedere il comportamento futuro dei clienti, dei prodotti o dei processi aziendali.
 - Comunicazione dei risultati: il Data Scientist deve comunicare i risultati delle analisi e dei modelli predittivi ai responsabili delle decisioni aziendali in modo chiaro e conciso.
 
-Inoltre, un Data Scientist può avere anche le seguenti responsabilità aggiuntive:
+Inoltre, un/a Data Scientist può avere anche le seguenti responsabilità aggiuntive:
 
 - Sviluppo di algoritmi e software: il Data Scientist può essere coinvolto nello sviluppo di algoritmi e software per la raccolta, l'analisi e l'interpretazione dei dati.
 - Gestione di progetti di data science: il Data Scientist può essere responsabile della gestione di progetti di data science che coinvolgono più persone e team.
@@ -416,9 +416,9 @@ Inoltre, un Data Scientist può avere anche le seguenti responsabilità aggiunti
 
 ### Descrizione del ruolo e mansioni principali
 
-Il Database Administrator (DBA) è la figura professionale che si occupa della progettazione, implementazione, gestione e manutenzione dei database. Il suo obiettivo è garantire che i dati siano disponibili, accessibili e protetti, in modo da supportare le attività aziendali.
+Il/la Database Administrator (DBA) è la figura professionale che si occupa della progettazione, implementazione, gestione e manutenzione dei database. Il suo obiettivo è garantire che i dati siano disponibili, accessibili e protetti, in modo da supportare le attività aziendali.
 
-Le mansioni tipiche di un DBA includono:
+Le mansioni tipiche di un/a DBA includono:
 
 - Progettazione e implementazione di database: il DBA collabora con gli sviluppatori e gli utenti aziendali per progettare e implementare database che soddisfino le esigenze specifiche dell'organizzazione.
 - Gestione dei database: il DBA è responsabile della gestione quotidiana dei database, tra cui la manutenzione dei server, l'esecuzione di backup e la risoluzione dei problemi.
@@ -443,22 +443,42 @@ Descrizione del ruolo e mansioni principali
 
 ### Descrizione del ruolo e mansioni principali
 
-Un DevSecOps engineer è un professionista che combina competenze in sviluppo software, operazioni e sicurezza. La sua figura è fondamentale per garantire la sicurezza del software durante tutto il suo ciclo di vita, dall'ideazione alla produzione.
+Un/a DevSecOps engineer è un/a professionista che combina competenze in sviluppo software, operazioni e sicurezza. La sua figura è fondamentale per garantire la sicurezza del software durante tutto il suo ciclo di vita, dall'ideazione alla produzione.
 
-Le mansioni tipiche di un DevSecOps engineer includono:
+Le mansioni tipiche di un/a DevSecOps engineer includono:
 
 - Implementare le best practice di sicurezza nel processo di sviluppo, come la scansione del codice per vulnerabilità, il test di sicurezza e la gestione dei rischi.
 - Collaborare con gli sviluppatori e gli operatori per integrare la sicurezza nel processo DevOps, assicurando che la sicurezza sia una considerazione primaria in tutte le fasi dello sviluppo e della distribuzione del software.
 - Monitorare il software in produzione per rilevare e mitigare le vulnerabilità.
 
-Le responsabilità aggiuntive di un DevSecOps engineer possono includere:
+Le responsabilità aggiuntive di un/a DevSecOps engineer possono includere:
 
 - Formazione e sensibilizzazione alla sicurezza per gli sviluppatori e gli operatori.
 - Sviluppo e implementazione di strumenti e processi di sicurezza automatizzati.
 - Coordinamento con i team di sicurezza aziendali.
 
 ## Enterprise architect
-Descrizione del ruolo e mansioni principali
+
+Un/a Enterprise Architect è una figura professionale nel settore IT che garantisce che la strategia IT di un'organizzazione sia allineata ai suoi obiettivi aziendali. Analizzano il portfolio e le soluzioni aziendali, definiscono tutte le diverse esigenze rimanendo allineati anche con l'evoluzione del mercato IT attuale.
+
+Le mansioni tipiche sono: 
+
+- Ottime capacità di comunicazione e collaborazione, dovendo lavorare quotidianamente con diversi attori, come i team IT e i team DevOps.
+- Una comprovata esperienza di 7-10 anni in un campo specifico, che sia la security, sysadministration o sviluppo.
+- Conoscenza dei principali cloud provider e dei servizi che offrono, al fine di valutare una strategia tecnologica con relativa analisi e organizzazione di un progetto specifico.
+- A seconda della propria esperienza, certificazioni attestanti la specifica verticalizzazione sono di supporto (es. nell'ambito del contesto DevOps, una certificazione di livello Professional ottenuta da AWS o simili).
+- Una buona comprensione dei processi aziendali e IT e del modo in cui si allineano.
+- Intuizione, visione e comprensione approfondita delle esigenze generali dell’azienda.
+- Essere in grado di produrre soluzioni efficaci per raggiungere gli obiettivi aziendali e IT complessi attraverso l'analisi tecnica, la risoluzione dei problemi, la ricerca, la valutazione e la comunicazione.
+- Capacità di leadership per consentire alle persone con cui collabora di mantenere il focus sull'attività e rispettare le scadenze.
+- Opzionale, ma utile, una laurea triennale o magistrale in informatica, IT o affini.
+
+Le sue responsabilità possono includere anche:
+- Valutare la strategia tecnologica, l'organizzazione, le applicazioni aziendali e l'infrastruttura per conto di un team o un cliente
+- Fornire consulenza sul panorama dell'architettura aziendale, tra cui tecnologia, informazioni, dati, sicurezza e integrazione
+- Implementare soluzioni IT innovative e su larga scala per favorire la trasformazione e il processo di innovazione aziendale
+- Aiutare a formulare le strategie e le roadmap generali della soluzione
+- Aiuta a creare uno o più centri di eccellenza inerenti uno specifico ambito.
 
 ## Frontend Developer
 Descrizione del ruolo e mansioni principali
@@ -562,7 +582,7 @@ Descrizione del ruolo e mansioni principali
 ## Software Engineer
 
 ### Descrizione del ruolo e mansioni principali
-Un Software Engineer, o ingegnere del software, è un professionista che si occupa della progettazione, dello sviluppo, del test e della manutenzione di software. Le sue mansioni tipiche includono:
+Un/a Software Engineer, o ingegnere del software, è un/una professionista che si occupa della progettazione, dello sviluppo, del test e della manutenzione di software. Le sue mansioni tipiche includono:
 
 - Analisi dei requisiti: Comprendere le esigenze degli utenti e i requisiti del sistema da implementare.   
 - Progettazione: Definire l'architettura, le funzionalità e l'interfaccia utente del software.   
@@ -572,7 +592,7 @@ Un Software Engineer, o ingegnere del software, è un professionista che si occu
 
 ### Seniority
 
-In genere, la seniority di un Software Engineer viene definita in base all'esperienza e alle competenze acquisite. Le seniority più comuni sono:
+In genere, la seniority di un/una Software Engineer viene definita in base all'esperienza e alle competenze acquisite. Le seniority più comuni sono:
 
 - Junior: I Junior Software Engineer hanno una breve esperienza e sono responsabili di attività di sviluppo di base.   
 - Middle: I Middle Software Engineer hanno una maggiore esperienza e sono responsabili di attività di sviluppo più complesse.   
@@ -593,12 +613,12 @@ Entrambi i termini richiedono competenze tecniche in programmazione.
 Differenze:
 
 "Software Developer" è un termine più generico, che può essere utilizzato per riferirsi a qualsiasi ruolo nello sviluppo software.   
-"Programmer" è un termine più specifico, che si riferisce a un professionista che si occupa principalmente di scrivere codice.   
+"Programmer" è un termine più specifico, che si riferisce a un/una professionista che si occupa principalmente di scrivere codice.   
 Nota circa la traduzione di "engineer" e le eventuali limitazioni giuridiche del titolo di ingegnere/engineer   
 
 In italiano, il termine "engineer" viene generalmente tradotto come "ingegnere". Tuttavia, in alcuni casi, il termine "ingegnere" è riservato a professionisti che hanno conseguito un titolo di laurea in Ingegneria. In questi casi, il termine "Software Engineer" potrebbe essere tradotto come "tecnico informatico" o "programmatore".
 
-In sintesi, un Software Engineer è un professionista altamente qualificato che si occupa di tutte le fasi del ciclo di vita del software, dalla progettazione allo sviluppo, dal test alla manutenzione. Il termine "ingegnere del software" è un termine generico che può essere utilizzato per riferirsi a qualsiasi ruolo nello sviluppo software, mentre il termine "programmatore" è un termine più specifico che si riferisce a un professionista che si occupa principalmente di scrivere codice.
+In sintesi, un/una Software Engineer è un/una professionista altamente qualificato che si occupa di tutte le fasi del ciclo di vita del software, dalla progettazione allo sviluppo, dal test alla manutenzione. Il termine "ingegnere del software" è un termine generico che può essere utilizzato per riferirsi a qualsiasi ruolo nello sviluppo software, mentre il termine "programmatore" è un termine più specifico che si riferisce a un/una professionista che si occupa principalmente di scrivere codice.
 
 ## Software developer
 cfr. Software Engineer
@@ -637,7 +657,7 @@ Questo tipo di figura si presta bene a lavorare:
 - come freelance.
 - come dipendente, ma affiancando anche un'altra mansione (tipicamente, lo sviluppo del software).
 
-Le mansioni principali di un technical writer che scriva tutorial comprendono:
+Le mansioni principali di un/una technical writer che scriva tutorial comprendono:
 - fare ricerca sul topic da sviluppare.
 - saper utilizzare i giusti prompt per interrogare le AI (senza farsi generare testo per fare copia-incolla nell'articolo!).
 - creare codice per fare esempi pratici e verificare che funzioni.
@@ -659,7 +679,7 @@ La figura del technical writer che sviluppa la documentazione tecnica di prodott
 
 Questo tipo di figura si presta bene a lavorare sia come dipendente che come contractor.
 
-Le mansioni principali di un technical writer che si occupa della documentazione tecnica sono:
+Le mansioni principali di un/una technical writer che si occupa della documentazione tecnica sono:
 - stabilire un processo coi developers per sviluppare la documentazione tecnica per i clienti prima della release del prodotto, così da rilasciare il prodotto a documentazione ultimata.
 - testare il prodotto e conoscerlo al meglio possibile.
 - creare la documentazione per i clienti segmentata per audience. In particolare, se il prodotto è un SaaS, ogni tipologia di utente, in generale, ha la documentazione dedicata.
