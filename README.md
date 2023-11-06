@@ -9,28 +9,28 @@ Grazie per ogni eventuale contribuzione/proposta!
 # Indice
 
 - [AI Engineer](#ai-engineer)
-- [Backend developer](#backend-developer)
-- [Big data engineer](#big-data-engineer)
-- [Big data architect](#big-data-architect)
+- [Backend Developer](#backend-developer)
+- [Big Data Engineer](#big-data-engineer)
+- [Big Data Architect](#big-data-architect)
 - [Blockchain Engineer](#blockchain-engineer)
 - [Business Analyst](#business-analyst)
-- [Chief information officer (CIO)](#chief-information-officer-cio)
-- [Chief information security officer (CISO)](#chief-information-security-officer-ciso)
-- [Chief technology officer (CTO)](#chief-technology-officer-cto)
-- [Cloud architect](#cloud-architect)
-- [Cloud computing engineer](#cloud-computing-engineer)
-- [Cloud systems engineer](#cloud-systems-engineer)
-- [Cloud/software architect](#cloudsoftware-architect)
-- [Cloud/software developer](#cloudsoftware-developer)
-- [Cyber security specialist](#cyber-security-specialist)
+- [Chief Information Officer (CIO)](#chief-information-officer-cio)
+- [Chief Information Security Officer (CISO)](#chief-information-security-officer-ciso)
+- [Chief Technology Officer (CTO)](#chief-technology-officer-cto)
+- [Cloud Architect](#cloud-architect)
+- [Cloud Computing Engineer](#cloud-computing-engineer)
+- [Cloud Systems Engineer](#cloud-systems-engineer)
+- [Cloud/Software Architect](#cloudsoftware-architect)
+- [Cloud/Software Developer](#cloudsoftware-developer)
+- [Cyber Security Specialist](#cyber-security-specialist)
 - [Data Analyst](#data-analyst)
-- [Data scientist](#data-scientist)
-- [Database administrator](#database-administrator)
-- [DevOps engineer](#devops-engineer)
+- [Data Scientist](#data-scientist)
+- [Database Administrator](#database-administrator)
+- [DevOps Engineer](#devops-engineer)
 - [Developer Advocate](#developer-advocate)
 - [Developer Relations (DevRel)](#developer-relations-devrel)
-- [DevSecOps engineer](#devsecops-engineer)
-- [Enterprise architect](#enterprise-architect)
+- [DevSecOps Engineer](#devsecops-engineer)
+- [Enterprise Architect](#enterprise-architect)
 - [Frontend Developer](#frontend-developer)
 - [Full Stack Engineer](#full-stack-engineer)
 - [Game Developer](#game-developer)
@@ -40,43 +40,43 @@ Grazie per ogni eventuale contribuzione/proposta!
 - [IT Auditor](#it-auditor)
 - [IT Business Analyst](#it-business-analyst)
 - [IT Consultant](#it-consultant)
-- [IT manager](#it-manager)
+- [IT Manager](#it-manager)
 - [IT Risk Analyst](#it-risk-analyst)
-- [IT security analyst](#it-security-analyst)
+- [IT Security Analyst](#it-security-analyst)
 - [IT Trainer](#it-trainer)
-- [IT support specialist](#it-support-specialist)
+- [IT Support Specialist](#it-support-specialist)
 - [Machine Learning Engineer](#machine-learning-engineer)
-- [Mobile developer](#mobile-developer)
-- [Network administrator](#network-administrator)
+- [Mobile Developer](#mobile-developer)
+- [Network Administrator](#network-administrator)
 - [Network Engineer](#network-engineer)
-- [Network infrastructure specialist](#network-infrastructure-specialist)
-- [Network security engineer](#network-security-engineer)
-- [Operations analyst](#operations-analyst)
+- [Network Infrastructure Specialist](#network-infrastructure-specialist)
+- [Network Security Engineer](#network-security-engineer)
+- [Operations Analyst](#operations-analyst)
 - [Penetration Tester](#penetration-tester)
-- [Platform engineer](#platform-engineer)
+- [Platform Engineer](#platform-engineer)
 - [Product Manager](#product-manager)
 - [Program Manager](#program-manager)
 - [Project Manager Operation (PMO)](#project-manager-operation-pmo)
 - [Quality Assurance (QA) Analyst](#quality-assurance-qa-analyst)
 - [Robotics Engineer](#robotics-engineer)
 - [Scrum Master](#scrum-master)
-- [Search engine optimization (SEO) consultant](#search-engine-optimization-seo-consultant)
-- [Security specialist](#security-specialist)
-- [Site reliability engineer](#site-reliability-engineer)
-- [Software architect](#software-architect)
+- [Search Engine Optimization (SEO) Consultant](#search-engine-optimization-seo-consultant)
+- [Security Specialist](#security-specialist)
+- [Site Reliability Engineer](#site-reliability-engineer)
+- [Software Architect](#software-architect)
 - [Software Engineer](#software-engineer)
-- [Software developer](#software-developer)
+- [Software Developer](#software-developer)
 - [Software Tester](#software-tester)
-- [Solutions architect](#solutions-architect)
-- [Support engineer](#support-engineer)
+- [Solutions Architect](#solutions-architect)
+- [Support Engineer](#support-engineer)
 - [System Administrator (Sysadmin)](#system-administrator-sysadmin)
-- [Systems analyst](#systems-analyst)
-- [Technical lead](#technical-lead)
+- [Systems Analyst](#systems-analyst)
+- [Technical Lead](#technical-lead)
 - [Technical Writer](#technical-writer)
-- [User experience designer (UX Designer)](#user-experience-designer-ux-designer)
-- [User interface (UI) designer](#user-interface-ui-designer)
-- [UX/UI specialist](#uxui-specialist)
-- [Web designer](#web-designer)
+- [User Experience Designer (UX Designer)](#user-experience-designer-ux-designer)
+- [User Interface (UI) Designer](#user-interface-ui-designer)
+- [UX/UI Specialist](#uxui-specialist)
+- [Web Designer](#web-designer)
 
 ## AI Engineer
 
@@ -99,7 +99,7 @@ Ecco alcune responsabilità aggiuntive che possono essere associate alla figura 
 - Comunicazione con le parti interessate: l'ingegnere AI deve essere in grado di comunicare efficacemente con le parti interessate, tra cui clienti, utenti finali, manager e altri ingegneri.
 - Responsabilità etiche: l'ingegnere AI deve essere consapevole delle implicazioni etiche dell'intelligenza artificiale e deve prendere decisioni responsabili.
 
-## Backend developer
+## Backend Developer
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -120,7 +120,7 @@ Inoltre, il backend developer può essere coinvolto in altre attività, come:
 
 Le responsabilità aggiuntive di un/a backend developer possono variare in base alla specifica azienda o progetto. Ad esempio, un/a backend developer potrebbe essere responsabile della sicurezza dell'applicazione, della scalabilità o dell'integrazione con sistemi legacy.
 
-## Big data engineer
+## Big Data Engineer
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -146,7 +146,7 @@ In generale, un/a Big data engineer è una figura professionale altamente qualif
 - Analisi dei dati: conoscenza dei principi e delle tecniche di analisi dei dati.   
 - Sicurezza informatica: conoscenza delle misure di sicurezza per proteggere i dati.   
 
-## Big data architect
+## Big Data Architect
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -209,7 +209,7 @@ Ecco alcune delle responsabilità principali di un/a Business Analyst:
 In sintesi, il Business Analyst agisce come ponte tra le esigenze aziendali e le soluzioni tecnologiche o operative. 
 Sono in grado di tradurre le richieste aziendali in requisiti dettagliati che possono essere implementati dal team di sviluppo o di gestione del progetto. Grazie alle loro competenze analitiche e di comunicazione, sono fondamentali per il successo di progetti e iniziative aziendali.
 
-## Chief information officer (CIO)
+## Chief Information Officer (CIO)
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -230,7 +230,7 @@ Oltre alle mansioni tipiche, un/a CIO può avere anche responsabilità aggiuntiv
 
 In conclusione, il CIO è una figura chiave nelle aziende moderne. È responsabile di garantire che le tecnologie siano utilizzate in modo efficace per supportare gli obiettivi aziendali e la trasformazione digitale.
 
-## Chief information security officer (CISO)
+## Chief Information Security Officer (CISO)
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -255,7 +255,7 @@ Ecco alcuni esempi di responsabilità aggiuntive che un/a CISO può avere:
 - Partecipazione a progetti di trasformazione digitale per garantire che la sicurezza informatica sia integrata nelle nuove tecnologie.
 - Coordinamento con le autorità di sicurezza per segnalare incidenti informatici e collaborare alle indagini.
 
-## Chief technology officer (CTO)
+## Chief Technology Officer (CTO)
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -269,7 +269,7 @@ Le mansioni tipiche di un/a CTO includono:
 
 Le responsabilità aggiuntive di un/a CTO possono variare a seconda delle dimensioni e del settore dell'azienda. Ad esempio, un/a CTO in un'azienda tecnologica potrebbe essere anche responsabile della ricerca e sviluppo di nuove tecnologie, mentre un CTO in un'azienda manifatturiera potrebbe essere anche responsabile dell'ingegneria di prodotto.
 
-## Cloud architect
+## Cloud Architect
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -287,7 +287,7 @@ Responsabilità e mansioni del Cloud Architect:
 
 Oltre che capacità tecniche, un/a Cloud Architect deve avere anche forti skill comunicative (scritte e verbali) per esprimere al meglio le soluzioni e interfacciarsi con il management.
 
-## Cloud computing engineer
+## Cloud Computing Engineer
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -315,7 +315,7 @@ Le responsabilità aggiuntive di un/a cloud engineer possono variare a seconda d
 
 Inoltre, un/a cloud engineer può essere coinvolto in progetti di innovazione cloud, come lo sviluppo di nuove applicazioni o la migrazione di applicazioni legacy al cloud.
 
-## Cloud systems engineer
+## Cloud Systems Engineer
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -334,7 +334,7 @@ Le responsabilità aggiuntive di un/a cloud system engineer possono variare a se
 - Collaborare con altri team IT, come gli sviluppatori di software o i responsabili della sicurezza.
 - Gestire i costi dei servizi cloud.
 
-## Cyber security specialist
+## Cyber Security Specialist
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -392,7 +392,7 @@ In aggiunta a queste mansioni, un/a Data Engineer può essere responsabile di at
 
 Il/la Data Engineer è una figura chiave nel processo di data science. Il suo lavoro è fondamentale per garantire che i dati siano disponibili e accessibili per gli analisti e i data scientist, che possono utilizzarli per prendere decisioni informate.
 
-## Data scientist
+## Data Scientist
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -412,7 +412,7 @@ Inoltre, un/a Data Scientist può avere anche le seguenti responsabilità aggiun
 - Gestione di progetti di data science: il Data Scientist può essere responsabile della gestione di progetti di data science che coinvolgono più persone e team.
 - Formazione e supporto agli utenti: il Data Scientist può fornire formazione e supporto agli utenti che utilizzano i modelli e le analisi di data science.
 
-## Database administrator
+## Database Administrator
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -430,7 +430,7 @@ Inoltre, il DBA può svolgere anche le seguenti responsabilità aggiuntive:
 - Monitoraggio e reporting: il DBA può monitorare le prestazioni e la disponibilità dei database e generare report per gli utenti aziendali.
 - Formazione e supporto: il DBA può fornire formazione e supporto agli utenti aziendali per l'utilizzo dei database.
 
-## DevOps engineer
+## DevOps Engineer
 "Il/la Devops" non esiste. Devops è una metodologia di lavoro, non un job title.
 
 ## Developer Advocate
@@ -439,7 +439,7 @@ Descrizione del ruolo e mansioni principali
 ## Developer Relations (DevRel)
 Descrizione del ruolo e mansioni principali
 
-## DevSecOps engineer
+## DevSecOps Engineer
 
 ### Descrizione del ruolo e mansioni principali
 
@@ -457,7 +457,7 @@ Le responsabilità aggiuntive di un/a DevSecOps engineer possono includere:
 - Sviluppo e implementazione di strumenti e processi di sicurezza automatizzati.
 - Coordinamento con i team di sicurezza aziendali.
 
-## Enterprise architect
+## Enterprise Architect
 
 Un/a Enterprise Architect è una figura professionale nel settore IT che garantisce che la strategia IT di un'organizzazione sia allineata ai suoi obiettivi aziendali. Analizzano il portfolio e le soluzioni aziendali, definiscono tutte le diverse esigenze rimanendo allineati anche con l'evoluzione del mercato IT attuale.
 
@@ -507,46 +507,46 @@ Descrizione del ruolo e mansioni principali
 ## IT Consultant
 Descrizione del ruolo e mansioni principali
 
-## IT manager
+## IT Manager
 Descrizione del ruolo e mansioni principali
 
 ## IT Risk Analyst
 Descrizione del ruolo e mansioni principali
 
-## IT security analyst
+## IT Security Analyst
 Descrizione del ruolo e mansioni principali
 
 ## IT Trainer
 Descrizione del ruolo e mansioni principali
 
-## IT support specialist
+## IT Support Specialist
 Descrizione del ruolo e mansioni principali
 
 ## Machine Learning Engineer
 Descrizione del ruolo e mansioni principali
 
-## Mobile developer
+## Mobile Developer
 Descrizione del ruolo e mansioni principali
 
-## Network administrator
+## Network Administrator
 Descrizione del ruolo e mansioni principali
 
 ## Network Engineer
 Descrizione del ruolo e mansioni principali
 
-## Network infrastructure specialist
+## Network Infrastructure Specialist
 Descrizione del ruolo e mansioni principali
 
-## Network security engineer
+## Network Security Engineer
 Descrizione del ruolo e mansioni principali
 
-## Operations analyst
+## Operations Analyst
 Descrizione del ruolo e mansioni principali
 
 ## Penetration Tester
 Descrizione del ruolo e mansioni principali
 
-## Platform engineer
+## Platform Engineer
 Descrizione del ruolo e mansioni principali
 
 ## Product Manager
@@ -567,16 +567,16 @@ Descrizione del ruolo e mansioni principali
 ## Scrum Master
 Descrizione del ruolo e mansioni principali
 
-## Search engine optimization (SEO) consultant
+## Search Engine Optimization (SEO) Consultant
 Descrizione del ruolo e mansioni principali
 
-## Security specialist
+## Security Specialist
 Descrizione del ruolo e mansioni principali
 
-## Site reliability engineer
+## Site Reliability Engineer
 Descrizione del ruolo e mansioni principali
 
-## Software architect
+## Software Architect
 Descrizione del ruolo e mansioni principali
 
 ## Software Engineer
@@ -620,25 +620,25 @@ In italiano, il termine "engineer" viene generalmente tradotto come "ingegnere".
 
 In sintesi, un/una Software Engineer è un/una professionista altamente qualificato che si occupa di tutte le fasi del ciclo di vita del software, dalla progettazione allo sviluppo, dal test alla manutenzione. Il termine "ingegnere del software" è un termine generico che può essere utilizzato per riferirsi a qualsiasi ruolo nello sviluppo software, mentre il termine "programmatore" è un termine più specifico che si riferisce a un/una professionista che si occupa principalmente di scrivere codice.
 
-## Software developer
+## Software Developer
 cfr. Software Engineer
 
 ## Software Tester
 Descrizione del ruolo e mansioni principali
 
-## Solutions architect
+## Solutions Architect
 Descrizione del ruolo e mansioni principali
 
-## Support engineer
+## Support Engineer
 Descrizione del ruolo e mansioni principali
 
 ## System Administrator (Sysadmin)
 Descrizione del ruolo e mansioni principali
 
-## Systems analyst
+## Systems Analyst
 Descrizione del ruolo e mansioni principali
 
-## Technical lead
+## Technical Lead
 Descrizione del ruolo e mansioni principali
 
 ## Technical Writer
@@ -694,14 +694,14 @@ possono servire anche le seguenti conoscenze e competenze trasversali:
 - lingua inglese.
 
 
-## User experience designer (UX Designer)
+## User Experience Designer (UX Designer)
 Descrizione del ruolo e mansioni principali
 
-## User interface (UI) designer
+## User Interface (UI) Designer
 Descrizione del ruolo e mansioni principali
 
-## UX/UI specialist
+## UX/UI Specialist
 Descrizione del ruolo e mansioni principali
 
-## Web designer
+## Web Designer
 Descrizione del ruolo e mansioni principali
